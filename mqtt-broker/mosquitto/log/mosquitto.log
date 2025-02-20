@@ -1,0 +1,14 @@
+1740063149: mosquitto version 2.0.20 starting
+1740063149: Config loaded from /mosquitto/config/mosquitto.conf.
+1740063149: Opening ipv4 listen socket on port 1883.
+1740063149: Opening ipv6 listen socket on port 1883.
+1740063149: mosquitto version 2.0.20 running
+1740063365: New connection from ::1:55350 on port 1883.
+1740063365: New client connected from ::1:55350 as auto-BE1637D5-C936-2481-D039-C51370383FA4 (p2, c1, k60).
+1740063405: New connection from ::1:33838 on port 1883.
+1740063405: New client connected from ::1:33838 as auto-B8CC1310-4376-179C-04FB-D1750BFAC4BB (p2, c1, k60).
+1740063405: Client auto-B8CC1310-4376-179C-04FB-D1750BFAC4BB disconnected.
+1740063436: New connection from ::1:34196 on port 1883.
+1740063436: New client connected from ::1:34196 as auto-42F51203-8075-A3A6-C6DC-B3F5E2CB21FB (p2, c1, k60).
+1740063436: Client auto-42F51203-8075-A3A6-C6DC-B3F5E2CB21FB disconnected.
+1740063543: Client auto-BE1637D5-C936-2481-D039-C51370383FA4 disconnected.
