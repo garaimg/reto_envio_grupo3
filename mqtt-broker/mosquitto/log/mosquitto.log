@@ -12,3 +12,1573 @@
 1740063436: New client connected from ::1:34196 as auto-42F51203-8075-A3A6-C6DC-B3F5E2CB21FB (p2, c1, k60).
 1740063436: Client auto-42F51203-8075-A3A6-C6DC-B3F5E2CB21FB disconnected.
 1740063543: Client auto-BE1637D5-C936-2481-D039-C51370383FA4 disconnected.
+1740064254: mosquitto version 2.0.20 starting
+1740064254: Config loaded from /mosquitto/config/mosquitto.conf.
+1740064254: Opening ipv4 listen socket on port 1883.
+1740064254: Opening ipv6 listen socket on port 1883.
+1740064254: mosquitto version 2.0.20 running
+1740064449: New connection from ::1:52568 on port 1883.
+1740064449: New client connected from ::1:52568 as auto-81C28C01-45FC-6045-1857-6F9097225FEC (p2, c1, k60).
+1740064449: Client auto-81C28C01-45FC-6045-1857-6F9097225FEC disconnected.
+1740064547: New connection from ::1:50070 on port 1883.
+1740064547: New client connected from ::1:50070 as auto-8B4E22DC-29CD-C41B-15E1-3EF31DCF4D96 (p2, c1, k60).
+1740064547: Client auto-8B4E22DC-29CD-C41B-15E1-3EF31DCF4D96 disconnected.
+1740064602: New connection from ::1:51028 on port 1883.
+1740064602: New client connected from ::1:51028 as auto-883FEFB9-9A50-F6C9-7646-43508427FA6E (p2, c1, k60).
+1740064602: Client auto-883FEFB9-9A50-F6C9-7646-43508427FA6E disconnected.
+1740064722: New connection from ::1:54360 on port 1883.
+1740064722: New client connected from ::1:54360 as auto-57C865F9-CDB5-0871-5DF7-FAB146C5A51B (p2, c1, k60).
+1740064722: Client auto-57C865F9-CDB5-0871-5DF7-FAB146C5A51B disconnected.
+1740064824: New connection from ::1:55902 on port 1883.
+1740064824: New client connected from ::1:55902 as auto-3A589E5C-E0F4-C021-04A5-B62D4CF2BE78 (p2, c1, k60).
+1740064824: Client auto-3A589E5C-E0F4-C021-04A5-B62D4CF2BE78 disconnected.
+1740064998: New connection from ::1:37552 on port 1883.
+1740064998: New client connected from ::1:37552 as auto-00174BC5-4B39-4830-942C-FDE9A23BB423 (p2, c1, k60).
+1740065005: Client auto-00174BC5-4B39-4830-942C-FDE9A23BB423 disconnected.
+1740065004: New connection from ::1:58466 on port 1883.
+1740065004: New client connected from ::1:58466 as auto-F8C44200-0894-6F89-A458-4994222E004E (p2, c1, k60).
+1740065035: Client auto-F8C44200-0894-6F89-A458-4994222E004E disconnected.
+1740065039: New connection from ::1:52386 on port 1883.
+1740065039: New client connected from ::1:52386 as auto-AD5B979C-41CB-2ACA-4A04-5F1E416E52DC (p2, c1, k60).
+1740065048: Client auto-AD5B979C-41CB-2ACA-4A04-5F1E416E52DC disconnected.
+1740065073: New connection from ::1:48300 on port 1883.
+1740065073: New client connected from ::1:48300 as auto-3755121C-69DD-34E0-69F2-25725D1D6622 (p2, c1, k60).
+1740065079: mosquitto version 2.0.20 terminating
+1740065089: mosquitto version 2.0.20 starting
+1740065089: Config loaded from /mosquitto/config/mosquitto.conf.
+1740065089: Opening ipv4 listen socket on port 1883.
+1740065089: Opening ipv6 listen socket on port 1883.
+1740065089: mosquitto version 2.0.20 running
+1740065115: New connection from ::1:49424 on port 1883.
+1740065115: New client connected from ::1:49424 as auto-2F0A4A83-2AC0-1601-F83B-52CE040B9597 (p2, c1, k60).
+1740065134: New connection from ::1:55178 on port 1883.
+1740065134: New client connected from ::1:55178 as auto-534853A2-6A9B-49A2-7DA7-E2040D83CE14 (p2, c1, k60).
+1740065134: Client auto-534853A2-6A9B-49A2-7DA7-E2040D83CE14 disconnected.
+1740065143: New connection from ::1:45738 on port 1883.
+1740065143: New client connected from ::1:45738 as auto-188C60A8-22F1-DE81-DAC8-0DC7C82419DD (p2, c1, k60).
+1740065143: Client auto-188C60A8-22F1-DE81-DAC8-0DC7C82419DD disconnected.
+1740065148: Client auto-2F0A4A83-2AC0-1601-F83B-52CE040B9597 disconnected.
+1740065149: New connection from ::1:45746 on port 1883.
+1740065149: New client connected from ::1:45746 as auto-0BE32156-ECB9-505F-53A9-B5AB44764150 (p2, c1, k60).
+1740065151: New connection from ::1:42258 on port 1883.
+1740065151: New client connected from ::1:42258 as auto-D8E4080F-AADB-7EC5-EE03-3158F51411C0 (p2, c1, k60).
+1740065151: Client auto-D8E4080F-AADB-7EC5-EE03-3158F51411C0 disconnected.
+1740065161: New connection from ::1:33142 on port 1883.
+1740065161: New client connected from ::1:33142 as auto-2024A729-956E-DE9D-DEB3-40BA5C690730 (p2, c1, k60).
+1740065161: Client auto-2024A729-956E-DE9D-DEB3-40BA5C690730 disconnected.
+1740065170: New connection from ::1:34172 on port 1883.
+1740065170: New client connected from ::1:34172 as auto-45C30590-4712-B496-877D-88FFDD854F64 (p2, c1, k60).
+1740065170: Client auto-45C30590-4712-B496-877D-88FFDD854F64 disconnected.
+1740065174: Client auto-0BE32156-ECB9-505F-53A9-B5AB44764150 disconnected.
+1740065180: New connection from ::1:49866 on port 1883.
+1740065180: New client connected from ::1:49866 as auto-06ABE756-7B48-0A67-3C2F-7E1DE069D2DA (p2, c1, k60).
+1740065182: New connection from ::1:49878 on port 1883.
+1740065182: New client connected from ::1:49878 as auto-D64E5E53-CF7B-178E-9B1A-53FCF39EBAD2 (p2, c1, k60).
+1740065182: Client auto-D64E5E53-CF7B-178E-9B1A-53FCF39EBAD2 disconnected.
+1740065184: New connection from ::1:49880 on port 1883.
+1740065184: New client connected from ::1:49880 as auto-ACE53980-9003-967B-9EB3-95BF7E4B83E9 (p2, c1, k60).
+1740065184: Client auto-ACE53980-9003-967B-9EB3-95BF7E4B83E9 disconnected.
+1740065187: New connection from ::1:60658 on port 1883.
+1740065187: New client connected from ::1:60658 as auto-A0E0B759-E766-F802-75CA-368B623C7381 (p2, c1, k60).
+1740065187: Client auto-A0E0B759-E766-F802-75CA-368B623C7381 disconnected.
+1740065197: Client auto-06ABE756-7B48-0A67-3C2F-7E1DE069D2DA disconnected.
+1740065200: New connection from ::1:37354 on port 1883.
+1740065200: New client connected from ::1:37354 as auto-116EB2B7-3C3F-DACC-B84C-5A8BFBD0555A (p2, c1, k60).
+1740065204: New connection from ::1:37360 on port 1883.
+1740065204: New client connected from ::1:37360 as auto-3EA3F250-151D-C46E-7C04-DB5B05F67C9E (p2, c1, k60).
+1740065204: Client auto-3EA3F250-151D-C46E-7C04-DB5B05F67C9E disconnected.
+1740065268: Client auto-116EB2B7-3C3F-DACC-B84C-5A8BFBD0555A disconnected.
+1740065273: New connection from ::1:45784 on port 1883.
+1740065273: New client connected from ::1:45784 as auto-34D7525B-17CC-C9FE-54D2-20F6214E4465 (p2, c1, k60).
+1740065276: New connection from ::1:45794 on port 1883.
+1740065276: New client connected from ::1:45794 as auto-DB1AEA56-CD85-181D-C79D-D9AD1919D2E7 (p2, c1, k60).
+1740065276: Client auto-DB1AEA56-CD85-181D-C79D-D9AD1919D2E7 disconnected.
+1740065280: New connection from ::1:40536 on port 1883.
+1740065280: New client connected from ::1:40536 as auto-C46D51F3-119D-D8A7-3608-43A2396155BF (p2, c1, k60).
+1740065280: Client auto-C46D51F3-119D-D8A7-3608-43A2396155BF disconnected.
+1740065288: New connection from ::1:33206 on port 1883.
+1740065288: New client connected from ::1:33206 as auto-F659A100-9DA2-C8BB-6EBE-93C95A8BD7F8 (p2, c1, k60).
+1740065288: Client auto-F659A100-9DA2-C8BB-6EBE-93C95A8BD7F8 disconnected.
+1740065310: Client auto-34D7525B-17CC-C9FE-54D2-20F6214E4465 disconnected.
+1740159492: mosquitto version 2.0.20 terminating
+1740159493: mosquitto version 2.0.20 starting
+1740159493: Config loaded from /mosquitto/config/mosquitto.conf.
+1740159493: Opening ipv4 listen socket on port 1883.
+1740159493: Opening ipv6 listen socket on port 1883.
+1740159493: mosquitto version 2.0.20 running
+1740159494: New connection from 172.19.0.3:42159 on port 1883.
+1740159494: New client connected from 172.19.0.3:42159 as news-subscriber (p2, c1, k60).
+1740159494: New connection from 172.19.0.4:52565 on port 1883.
+1740159494: New client connected from 172.19.0.4:52565 as news-publisher (p2, c1, k60).
+1740159544: Client news-publisher disconnected.
+1740159641: mosquitto version 2.0.20 terminating
+1740159659: mosquitto version 2.0.20 starting
+1740159659: Config loaded from /mosquitto/config/mosquitto.conf.
+1740159659: Opening ipv4 listen socket on port 1883.
+1740159659: Opening ipv6 listen socket on port 1883.
+1740159659: mosquitto version 2.0.20 running
+1740159660: New connection from 172.19.0.3:52553 on port 1883.
+1740159660: New client connected from 172.19.0.3:52553 as news-subscriber (p2, c1, k60).
+1740159660: New connection from 172.19.0.4:33233 on port 1883.
+1740159660: New client connected from 172.19.0.4:33233 as news-publisher (p2, c1, k60).
+1740159710: Client news-publisher disconnected.
+1740159745: Client news-subscriber closed its connection.
+1740159746: mosquitto version 2.0.20 terminating
+1740159900: mosquitto version 2.0.20 starting
+1740159900: Config loaded from /mosquitto/config/mosquitto.conf.
+1740159900: Opening ipv4 listen socket on port 1883.
+1740159900: Opening ipv6 listen socket on port 1883.
+1740159900: mosquitto version 2.0.20 running
+1740159900: New connection from 172.19.0.4:33365 on port 1883.
+1740159900: New client connected from 172.19.0.4:33365 as news-publisher (p2, c1, k60).
+1740159900: New connection from 172.19.0.3:55771 on port 1883.
+1740159900: New client connected from 172.19.0.3:55771 as news-subscriber (p2, c1, k60).
+1740159924: Client news-subscriber closed its connection.
+1740159924: Client news-publisher closed its connection.
+1740159925: mosquitto version 2.0.20 terminating
+1740160014: mosquitto version 2.0.20 starting
+1740160014: Config loaded from /mosquitto/config/mosquitto.conf.
+1740160014: Opening ipv4 listen socket on port 1883.
+1740160014: Opening ipv6 listen socket on port 1883.
+1740160014: mosquitto version 2.0.20 running
+1740160015: New connection from 172.19.0.4:33055 on port 1883.
+1740160015: New client connected from 172.19.0.4:33055 as news-subscriber (p2, c1, k60).
+1740160015: New connection from 172.19.0.3:43101 on port 1883.
+1740160015: New client connected from 172.19.0.3:43101 as news-publisher (p2, c1, k60).
+1740160015: Client news-subscriber closed its connection.
+1740160215: Client news-publisher closed its connection.
+1740160216: mosquitto version 2.0.20 terminating
+1740160223: mosquitto version 2.0.20 starting
+1740160223: Config loaded from /mosquitto/config/mosquitto.conf.
+1740160223: Opening ipv4 listen socket on port 1883.
+1740160223: Opening ipv6 listen socket on port 1883.
+1740160223: mosquitto version 2.0.20 running
+1740160224: New connection from 172.19.0.4:51543 on port 1883.
+1740160224: New client connected from 172.19.0.4:51543 as news-publisher (p2, c1, k60).
+1740160224: New connection from 172.19.0.3:58687 on port 1883.
+1740160224: New client connected from 172.19.0.3:58687 as news-subscriber (p2, c1, k60).
+1740160312: New connection from 172.19.0.4:41181 on port 1883.
+1740160312: Client news-publisher already connected, closing old connection.
+1740160312: New client connected from 172.19.0.4:41181 as news-publisher (p2, c1, k60).
+1740160313: New connection from 172.19.0.4:52161 on port 1883.
+1740160313: Client news-publisher already connected, closing old connection.
+1740160313: New client connected from 172.19.0.4:52161 as news-publisher (p2, c1, k60).
+1740160314: New connection from 172.19.0.4:49749 on port 1883.
+1740160314: Client news-publisher already connected, closing old connection.
+1740160314: New client connected from 172.19.0.4:49749 as news-publisher (p2, c1, k60).
+1740160315: New connection from 172.19.0.4:54205 on port 1883.
+1740160315: Client news-publisher already connected, closing old connection.
+1740160315: New client connected from 172.19.0.4:54205 as news-publisher (p2, c1, k60).
+1740160316: New connection from 172.19.0.4:57283 on port 1883.
+1740160316: Client news-publisher already connected, closing old connection.
+1740160316: New client connected from 172.19.0.4:57283 as news-publisher (p2, c1, k60).
+1740160317: New connection from 172.19.0.4:58517 on port 1883.
+1740160317: Client news-publisher already connected, closing old connection.
+1740160317: New client connected from 172.19.0.4:58517 as news-publisher (p2, c1, k60).
+1740160318: New connection from 172.19.0.4:34545 on port 1883.
+1740160318: Client news-publisher already connected, closing old connection.
+1740160318: New client connected from 172.19.0.4:34545 as news-publisher (p2, c1, k60).
+1740160319: New connection from 172.19.0.4:56199 on port 1883.
+1740160319: Client news-publisher already connected, closing old connection.
+1740160319: New client connected from 172.19.0.4:56199 as news-publisher (p2, c1, k60).
+1740160320: New connection from 172.19.0.4:42689 on port 1883.
+1740160320: Client news-publisher already connected, closing old connection.
+1740160320: New client connected from 172.19.0.4:42689 as news-publisher (p2, c1, k60).
+1740160321: New connection from 172.19.0.4:55027 on port 1883.
+1740160321: Client news-publisher already connected, closing old connection.
+1740160321: New client connected from 172.19.0.4:55027 as news-publisher (p2, c1, k60).
+1740160322: New connection from 172.19.0.4:53851 on port 1883.
+1740160322: Client news-publisher already connected, closing old connection.
+1740160322: New client connected from 172.19.0.4:53851 as news-publisher (p2, c1, k60).
+1740160324: New connection from 172.19.0.4:59227 on port 1883.
+1740160324: Client news-publisher already connected, closing old connection.
+1740160324: New client connected from 172.19.0.4:59227 as news-publisher (p2, c1, k60).
+1740160325: New connection from 172.19.0.4:43225 on port 1883.
+1740160325: Client news-publisher already connected, closing old connection.
+1740160325: New client connected from 172.19.0.4:43225 as news-publisher (p2, c1, k60).
+1740160326: New connection from 172.19.0.4:44657 on port 1883.
+1740160326: Client news-publisher already connected, closing old connection.
+1740160326: New client connected from 172.19.0.4:44657 as news-publisher (p2, c1, k60).
+1740160327: New connection from 172.19.0.4:38885 on port 1883.
+1740160327: Client news-publisher already connected, closing old connection.
+1740160327: New client connected from 172.19.0.4:38885 as news-publisher (p2, c1, k60).
+1740160328: New connection from 172.19.0.4:58927 on port 1883.
+1740160328: Client news-publisher already connected, closing old connection.
+1740160328: New client connected from 172.19.0.4:58927 as news-publisher (p2, c1, k60).
+1740160329: New connection from 172.19.0.4:57357 on port 1883.
+1740160329: Client news-publisher already connected, closing old connection.
+1740160329: New client connected from 172.19.0.4:57357 as news-publisher (p2, c1, k60).
+1740160330: New connection from 172.19.0.4:55901 on port 1883.
+1740160330: Client news-publisher already connected, closing old connection.
+1740160330: New client connected from 172.19.0.4:55901 as news-publisher (p2, c1, k60).
+1740160331: New connection from 172.19.0.4:50603 on port 1883.
+1740160331: Client news-publisher already connected, closing old connection.
+1740160331: New client connected from 172.19.0.4:50603 as news-publisher (p2, c1, k60).
+1740160332: New connection from 172.19.0.4:46593 on port 1883.
+1740160332: Client news-publisher already connected, closing old connection.
+1740160332: New client connected from 172.19.0.4:46593 as news-publisher (p2, c1, k60).
+1740160333: New connection from 172.19.0.4:58203 on port 1883.
+1740160333: Client news-publisher already connected, closing old connection.
+1740160333: New client connected from 172.19.0.4:58203 as news-publisher (p2, c1, k60).
+1740160334: New connection from 172.19.0.4:58195 on port 1883.
+1740160334: Client news-publisher already connected, closing old connection.
+1740160334: New client connected from 172.19.0.4:58195 as news-publisher (p2, c1, k60).
+1740160335: New connection from 172.19.0.4:60861 on port 1883.
+1740160335: Client news-publisher already connected, closing old connection.
+1740160335: New client connected from 172.19.0.4:60861 as news-publisher (p2, c1, k60).
+1740160336: New connection from 172.19.0.4:34823 on port 1883.
+1740160336: Client news-publisher already connected, closing old connection.
+1740160336: New client connected from 172.19.0.4:34823 as news-publisher (p2, c1, k60).
+1740160337: New connection from 172.19.0.4:57633 on port 1883.
+1740160337: Client news-publisher already connected, closing old connection.
+1740160337: New client connected from 172.19.0.4:57633 as news-publisher (p2, c1, k60).
+1740160338: New connection from 172.19.0.4:50865 on port 1883.
+1740160338: Client news-publisher already connected, closing old connection.
+1740160338: New client connected from 172.19.0.4:50865 as news-publisher (p2, c1, k60).
+1740160339: New connection from 172.19.0.4:49745 on port 1883.
+1740160339: Client news-publisher already connected, closing old connection.
+1740160339: New client connected from 172.19.0.4:49745 as news-publisher (p2, c1, k60).
+1740160340: New connection from 172.19.0.4:37677 on port 1883.
+1740160340: Client news-publisher already connected, closing old connection.
+1740160340: New client connected from 172.19.0.4:37677 as news-publisher (p2, c1, k60).
+1740160341: New connection from 172.19.0.4:39163 on port 1883.
+1740160341: Client news-publisher already connected, closing old connection.
+1740160341: New client connected from 172.19.0.4:39163 as news-publisher (p2, c1, k60).
+1740160342: New connection from 172.19.0.4:57449 on port 1883.
+1740160342: Client news-publisher already connected, closing old connection.
+1740160342: New client connected from 172.19.0.4:57449 as news-publisher (p2, c1, k60).
+1740160343: New connection from 172.19.0.4:54845 on port 1883.
+1740160343: Client news-publisher already connected, closing old connection.
+1740160343: New client connected from 172.19.0.4:54845 as news-publisher (p2, c1, k60).
+1740160344: New connection from 172.19.0.4:40341 on port 1883.
+1740160344: Client news-publisher already connected, closing old connection.
+1740160344: New client connected from 172.19.0.4:40341 as news-publisher (p2, c1, k60).
+1740160345: New connection from 172.19.0.4:34631 on port 1883.
+1740160345: Client news-publisher already connected, closing old connection.
+1740160345: New client connected from 172.19.0.4:34631 as news-publisher (p2, c1, k60).
+1740160346: New connection from 172.19.0.4:43225 on port 1883.
+1740160346: Client news-publisher already connected, closing old connection.
+1740160346: New client connected from 172.19.0.4:43225 as news-publisher (p2, c1, k60).
+1740160347: New connection from 172.19.0.4:38719 on port 1883.
+1740160347: Client news-publisher already connected, closing old connection.
+1740160347: New client connected from 172.19.0.4:38719 as news-publisher (p2, c1, k60).
+1740160348: New connection from 172.19.0.4:49683 on port 1883.
+1740160348: Client news-publisher already connected, closing old connection.
+1740160348: New client connected from 172.19.0.4:49683 as news-publisher (p2, c1, k60).
+1740160349: New connection from 172.19.0.4:54653 on port 1883.
+1740160349: Client news-publisher already connected, closing old connection.
+1740160349: New client connected from 172.19.0.4:54653 as news-publisher (p2, c1, k60).
+1740160350: New connection from 172.19.0.4:41615 on port 1883.
+1740160350: Client news-publisher already connected, closing old connection.
+1740160350: New client connected from 172.19.0.4:41615 as news-publisher (p2, c1, k60).
+1740160351: New connection from 172.19.0.4:41823 on port 1883.
+1740160351: Client news-publisher already connected, closing old connection.
+1740160351: New client connected from 172.19.0.4:41823 as news-publisher (p2, c1, k60).
+1740160352: New connection from 172.19.0.4:54191 on port 1883.
+1740160352: Client news-publisher already connected, closing old connection.
+1740160352: New client connected from 172.19.0.4:54191 as news-publisher (p2, c1, k60).
+1740160353: New connection from 172.19.0.4:58383 on port 1883.
+1740160353: Client news-publisher already connected, closing old connection.
+1740160353: New client connected from 172.19.0.4:58383 as news-publisher (p2, c1, k60).
+1740160354: New connection from 172.19.0.4:43567 on port 1883.
+1740160354: Client news-publisher already connected, closing old connection.
+1740160354: New client connected from 172.19.0.4:43567 as news-publisher (p2, c1, k60).
+1740160355: New connection from 172.19.0.4:40567 on port 1883.
+1740160355: Client news-publisher already connected, closing old connection.
+1740160355: New client connected from 172.19.0.4:40567 as news-publisher (p2, c1, k60).
+1740160356: New connection from 172.19.0.4:52475 on port 1883.
+1740160356: Client news-publisher already connected, closing old connection.
+1740160356: New client connected from 172.19.0.4:52475 as news-publisher (p2, c1, k60).
+1740160357: New connection from 172.19.0.4:54907 on port 1883.
+1740160357: Client news-publisher already connected, closing old connection.
+1740160357: New client connected from 172.19.0.4:54907 as news-publisher (p2, c1, k60).
+1740160358: New connection from 172.19.0.4:37249 on port 1883.
+1740160358: Client news-publisher already connected, closing old connection.
+1740160358: New client connected from 172.19.0.4:37249 as news-publisher (p2, c1, k60).
+1740160359: New connection from 172.19.0.4:53591 on port 1883.
+1740160359: Client news-publisher already connected, closing old connection.
+1740160359: New client connected from 172.19.0.4:53591 as news-publisher (p2, c1, k60).
+1740160360: New connection from 172.19.0.4:34421 on port 1883.
+1740160360: Client news-publisher already connected, closing old connection.
+1740160360: New client connected from 172.19.0.4:34421 as news-publisher (p2, c1, k60).
+1740160361: New connection from 172.19.0.4:50661 on port 1883.
+1740160361: Client news-publisher already connected, closing old connection.
+1740160361: New client connected from 172.19.0.4:50661 as news-publisher (p2, c1, k60).
+1740160362: New connection from 172.19.0.4:43919 on port 1883.
+1740160362: Client news-publisher already connected, closing old connection.
+1740160362: New client connected from 172.19.0.4:43919 as news-publisher (p2, c1, k60).
+1740160363: New connection from 172.19.0.4:56027 on port 1883.
+1740160363: Client news-publisher already connected, closing old connection.
+1740160363: New client connected from 172.19.0.4:56027 as news-publisher (p2, c1, k60).
+1740160364: New connection from 172.19.0.4:50895 on port 1883.
+1740160364: Client news-publisher already connected, closing old connection.
+1740160364: New client connected from 172.19.0.4:50895 as news-publisher (p2, c1, k60).
+1740160365: New connection from 172.19.0.4:54529 on port 1883.
+1740160365: Client news-publisher already connected, closing old connection.
+1740160365: New client connected from 172.19.0.4:54529 as news-publisher (p2, c1, k60).
+1740160366: New connection from 172.19.0.4:41973 on port 1883.
+1740160366: Client news-publisher already connected, closing old connection.
+1740160366: New client connected from 172.19.0.4:41973 as news-publisher (p2, c1, k60).
+1740160367: New connection from 172.19.0.4:36727 on port 1883.
+1740160367: Client news-publisher already connected, closing old connection.
+1740160367: New client connected from 172.19.0.4:36727 as news-publisher (p2, c1, k60).
+1740160368: New connection from 172.19.0.4:39011 on port 1883.
+1740160368: Client news-publisher already connected, closing old connection.
+1740160368: New client connected from 172.19.0.4:39011 as news-publisher (p2, c1, k60).
+1740160369: New connection from 172.19.0.4:35683 on port 1883.
+1740160369: Client news-publisher already connected, closing old connection.
+1740160369: New client connected from 172.19.0.4:35683 as news-publisher (p2, c1, k60).
+1740160370: New connection from 172.19.0.4:51055 on port 1883.
+1740160370: Client news-publisher already connected, closing old connection.
+1740160370: New client connected from 172.19.0.4:51055 as news-publisher (p2, c1, k60).
+1740160371: New connection from 172.19.0.4:47961 on port 1883.
+1740160371: Client news-publisher already connected, closing old connection.
+1740160371: New client connected from 172.19.0.4:47961 as news-publisher (p2, c1, k60).
+1740160372: New connection from 172.19.0.4:59279 on port 1883.
+1740160372: Client news-publisher already connected, closing old connection.
+1740160372: New client connected from 172.19.0.4:59279 as news-publisher (p2, c1, k60).
+1740160373: New connection from 172.19.0.4:57097 on port 1883.
+1740160373: Client news-publisher already connected, closing old connection.
+1740160373: New client connected from 172.19.0.4:57097 as news-publisher (p2, c1, k60).
+1740160374: New connection from 172.19.0.4:54149 on port 1883.
+1740160374: Client news-publisher already connected, closing old connection.
+1740160374: New client connected from 172.19.0.4:54149 as news-publisher (p2, c1, k60).
+1740160375: New connection from 172.19.0.4:49109 on port 1883.
+1740160375: Client news-publisher already connected, closing old connection.
+1740160375: New client connected from 172.19.0.4:49109 as news-publisher (p2, c1, k60).
+1740160376: New connection from 172.19.0.4:44665 on port 1883.
+1740160376: Client news-publisher already connected, closing old connection.
+1740160376: New client connected from 172.19.0.4:44665 as news-publisher (p2, c1, k60).
+1740160377: New connection from 172.19.0.4:57715 on port 1883.
+1740160377: Client news-publisher already connected, closing old connection.
+1740160377: New client connected from 172.19.0.4:57715 as news-publisher (p2, c1, k60).
+1740160378: New connection from 172.19.0.4:59171 on port 1883.
+1740160378: Client news-publisher already connected, closing old connection.
+1740160378: New client connected from 172.19.0.4:59171 as news-publisher (p2, c1, k60).
+1740160379: New connection from 172.19.0.4:59281 on port 1883.
+1740160379: Client news-publisher already connected, closing old connection.
+1740160379: New client connected from 172.19.0.4:59281 as news-publisher (p2, c1, k60).
+1740160379: New connection from 172.19.0.3:54057 on port 1883.
+1740160379: Client news-subscriber already connected, closing old connection.
+1740160379: New client connected from 172.19.0.3:54057 as news-subscriber (p2, c1, k60).
+1740160380: New connection from 172.19.0.4:47467 on port 1883.
+1740160380: Client news-publisher already connected, closing old connection.
+1740160380: New client connected from 172.19.0.4:47467 as news-publisher (p2, c1, k60).
+1740160380: New connection from 172.19.0.3:37737 on port 1883.
+1740160380: Client news-subscriber already connected, closing old connection.
+1740160380: New client connected from 172.19.0.3:37737 as news-subscriber (p2, c1, k60).
+1740160381: New connection from 172.19.0.4:34449 on port 1883.
+1740160381: Client news-publisher already connected, closing old connection.
+1740160381: New client connected from 172.19.0.4:34449 as news-publisher (p2, c1, k60).
+1740160381: New connection from 172.19.0.3:40315 on port 1883.
+1740160381: Client news-subscriber already connected, closing old connection.
+1740160381: New client connected from 172.19.0.3:40315 as news-subscriber (p2, c1, k60).
+1740160382: New connection from 172.19.0.4:56935 on port 1883.
+1740160382: Client news-publisher already connected, closing old connection.
+1740160382: New client connected from 172.19.0.4:56935 as news-publisher (p2, c1, k60).
+1740160382: New connection from 172.19.0.3:57887 on port 1883.
+1740160382: Client news-subscriber already connected, closing old connection.
+1740160382: New client connected from 172.19.0.3:57887 as news-subscriber (p2, c1, k60).
+1740160383: New connection from 172.19.0.4:57463 on port 1883.
+1740160383: Client news-publisher already connected, closing old connection.
+1740160383: New client connected from 172.19.0.4:57463 as news-publisher (p2, c1, k60).
+1740160383: New connection from 172.19.0.3:53681 on port 1883.
+1740160383: Client news-subscriber already connected, closing old connection.
+1740160383: New client connected from 172.19.0.3:53681 as news-subscriber (p2, c1, k60).
+1740160384: New connection from 172.19.0.4:35803 on port 1883.
+1740160384: Client news-publisher already connected, closing old connection.
+1740160384: New client connected from 172.19.0.4:35803 as news-publisher (p2, c1, k60).
+1740160384: New connection from 172.19.0.3:51343 on port 1883.
+1740160384: Client news-subscriber already connected, closing old connection.
+1740160384: New client connected from 172.19.0.3:51343 as news-subscriber (p2, c1, k60).
+1740160385: New connection from 172.19.0.4:45841 on port 1883.
+1740160385: Client news-publisher already connected, closing old connection.
+1740160385: New client connected from 172.19.0.4:45841 as news-publisher (p2, c1, k60).
+1740160386: New connection from 172.19.0.3:41805 on port 1883.
+1740160386: Client news-subscriber already connected, closing old connection.
+1740160386: New client connected from 172.19.0.3:41805 as news-subscriber (p2, c1, k60).
+1740160386: New connection from 172.19.0.4:36345 on port 1883.
+1740160386: Client news-publisher already connected, closing old connection.
+1740160386: New client connected from 172.19.0.4:36345 as news-publisher (p2, c1, k60).
+1740160387: New connection from 172.19.0.3:59369 on port 1883.
+1740160387: Client news-subscriber already connected, closing old connection.
+1740160387: New client connected from 172.19.0.3:59369 as news-subscriber (p2, c1, k60).
+1740160387: New connection from 172.19.0.4:58623 on port 1883.
+1740160387: Client news-publisher already connected, closing old connection.
+1740160387: New client connected from 172.19.0.4:58623 as news-publisher (p2, c1, k60).
+1740160388: New connection from 172.19.0.3:45817 on port 1883.
+1740160388: Client news-subscriber already connected, closing old connection.
+1740160388: New client connected from 172.19.0.3:45817 as news-subscriber (p2, c1, k60).
+1740160388: New connection from 172.19.0.4:52781 on port 1883.
+1740160388: Client news-publisher already connected, closing old connection.
+1740160388: New client connected from 172.19.0.4:52781 as news-publisher (p2, c1, k60).
+1740160389: New connection from 172.19.0.3:39245 on port 1883.
+1740160389: Client news-subscriber already connected, closing old connection.
+1740160389: New client connected from 172.19.0.3:39245 as news-subscriber (p2, c1, k60).
+1740160389: New connection from 172.19.0.4:53555 on port 1883.
+1740160389: Client news-publisher already connected, closing old connection.
+1740160389: New client connected from 172.19.0.4:53555 as news-publisher (p2, c1, k60).
+1740160390: New connection from 172.19.0.4:53209 on port 1883.
+1740160390: Client news-publisher already connected, closing old connection.
+1740160390: New client connected from 172.19.0.4:53209 as news-publisher (p2, c1, k60).
+1740160390: New connection from 172.19.0.3:59031 on port 1883.
+1740160390: Client news-subscriber already connected, closing old connection.
+1740160390: New client connected from 172.19.0.3:59031 as news-subscriber (p2, c1, k60).
+1740160391: New connection from 172.19.0.4:40311 on port 1883.
+1740160391: Client news-publisher already connected, closing old connection.
+1740160391: New client connected from 172.19.0.4:40311 as news-publisher (p2, c1, k60).
+1740160391: New connection from 172.19.0.3:43601 on port 1883.
+1740160391: Client news-subscriber already connected, closing old connection.
+1740160391: New client connected from 172.19.0.3:43601 as news-subscriber (p2, c1, k60).
+1740160392: New connection from 172.19.0.4:37163 on port 1883.
+1740160392: Client news-publisher already connected, closing old connection.
+1740160392: New client connected from 172.19.0.4:37163 as news-publisher (p2, c1, k60).
+1740160392: New connection from 172.19.0.3:49813 on port 1883.
+1740160392: Client news-subscriber already connected, closing old connection.
+1740160392: New client connected from 172.19.0.3:49813 as news-subscriber (p2, c1, k60).
+1740160393: New connection from 172.19.0.4:41171 on port 1883.
+1740160393: Client news-publisher already connected, closing old connection.
+1740160393: New client connected from 172.19.0.4:41171 as news-publisher (p2, c1, k60).
+1740160393: New connection from 172.19.0.3:37229 on port 1883.
+1740160393: Client news-subscriber already connected, closing old connection.
+1740160393: New client connected from 172.19.0.3:37229 as news-subscriber (p2, c1, k60).
+1740160394: New connection from 172.19.0.4:48243 on port 1883.
+1740160394: Client news-publisher already connected, closing old connection.
+1740160394: New client connected from 172.19.0.4:48243 as news-publisher (p2, c1, k60).
+1740160394: New connection from 172.19.0.3:43259 on port 1883.
+1740160394: Client news-subscriber already connected, closing old connection.
+1740160394: New client connected from 172.19.0.3:43259 as news-subscriber (p2, c1, k60).
+1740160395: New connection from 172.19.0.4:48787 on port 1883.
+1740160395: Client news-publisher already connected, closing old connection.
+1740160395: New client connected from 172.19.0.4:48787 as news-publisher (p2, c1, k60).
+1740160395: New connection from 172.19.0.3:33019 on port 1883.
+1740160395: Client news-subscriber already connected, closing old connection.
+1740160395: New client connected from 172.19.0.3:33019 as news-subscriber (p2, c1, k60).
+1740160396: New connection from 172.19.0.4:53829 on port 1883.
+1740160396: Client news-publisher already connected, closing old connection.
+1740160396: New client connected from 172.19.0.4:53829 as news-publisher (p2, c1, k60).
+1740160396: New connection from 172.19.0.3:56591 on port 1883.
+1740160396: Client news-subscriber already connected, closing old connection.
+1740160396: New client connected from 172.19.0.3:56591 as news-subscriber (p2, c1, k60).
+1740160397: New connection from 172.19.0.4:47997 on port 1883.
+1740160397: Client news-publisher already connected, closing old connection.
+1740160397: New client connected from 172.19.0.4:47997 as news-publisher (p2, c1, k60).
+1740160397: New connection from 172.19.0.3:60655 on port 1883.
+1740160397: Client news-subscriber already connected, closing old connection.
+1740160397: New client connected from 172.19.0.3:60655 as news-subscriber (p2, c1, k60).
+1740160398: New connection from 172.19.0.4:34365 on port 1883.
+1740160398: Client news-publisher already connected, closing old connection.
+1740160398: New client connected from 172.19.0.4:34365 as news-publisher (p2, c1, k60).
+1740160398: New connection from 172.19.0.3:36043 on port 1883.
+1740160398: Client news-subscriber already connected, closing old connection.
+1740160398: New client connected from 172.19.0.3:36043 as news-subscriber (p2, c1, k60).
+1740160399: New connection from 172.19.0.4:34919 on port 1883.
+1740160399: Client news-publisher already connected, closing old connection.
+1740160399: New client connected from 172.19.0.4:34919 as news-publisher (p2, c1, k60).
+1740160399: New connection from 172.19.0.3:33175 on port 1883.
+1740160399: Client news-subscriber already connected, closing old connection.
+1740160399: New client connected from 172.19.0.3:33175 as news-subscriber (p2, c1, k60).
+1740160400: New connection from 172.19.0.4:54837 on port 1883.
+1740160400: Client news-publisher already connected, closing old connection.
+1740160400: New client connected from 172.19.0.4:54837 as news-publisher (p2, c1, k60).
+1740160400: New connection from 172.19.0.3:49657 on port 1883.
+1740160400: Client news-subscriber already connected, closing old connection.
+1740160400: New client connected from 172.19.0.3:49657 as news-subscriber (p2, c1, k60).
+1740160401: New connection from 172.19.0.4:33485 on port 1883.
+1740160401: Client news-publisher already connected, closing old connection.
+1740160401: New client connected from 172.19.0.4:33485 as news-publisher (p2, c1, k60).
+1740160401: New connection from 172.19.0.3:42849 on port 1883.
+1740160401: Client news-subscriber already connected, closing old connection.
+1740160401: New client connected from 172.19.0.3:42849 as news-subscriber (p2, c1, k60).
+1740160402: New connection from 172.19.0.4:53847 on port 1883.
+1740160402: Client news-publisher already connected, closing old connection.
+1740160402: New client connected from 172.19.0.4:53847 as news-publisher (p2, c1, k60).
+1740160402: New connection from 172.19.0.3:41187 on port 1883.
+1740160402: Client news-subscriber already connected, closing old connection.
+1740160402: New client connected from 172.19.0.3:41187 as news-subscriber (p2, c1, k60).
+1740160403: New connection from 172.19.0.4:44563 on port 1883.
+1740160403: Client news-publisher already connected, closing old connection.
+1740160403: New client connected from 172.19.0.4:44563 as news-publisher (p2, c1, k60).
+1740160403: New connection from 172.19.0.3:33261 on port 1883.
+1740160403: Client news-subscriber already connected, closing old connection.
+1740160403: New client connected from 172.19.0.3:33261 as news-subscriber (p2, c1, k60).
+1740160404: New connection from 172.19.0.4:39251 on port 1883.
+1740160404: Client news-publisher already connected, closing old connection.
+1740160404: New client connected from 172.19.0.4:39251 as news-publisher (p2, c1, k60).
+1740160404: New connection from 172.19.0.3:42247 on port 1883.
+1740160404: Client news-subscriber already connected, closing old connection.
+1740160404: New client connected from 172.19.0.3:42247 as news-subscriber (p2, c1, k60).
+1740160405: New connection from 172.19.0.4:41287 on port 1883.
+1740160405: Client news-publisher already connected, closing old connection.
+1740160405: New client connected from 172.19.0.4:41287 as news-publisher (p2, c1, k60).
+1740160405: New connection from 172.19.0.3:50993 on port 1883.
+1740160405: Client news-subscriber already connected, closing old connection.
+1740160405: New client connected from 172.19.0.3:50993 as news-subscriber (p2, c1, k60).
+1740160406: New connection from 172.19.0.4:60207 on port 1883.
+1740160406: Client news-publisher already connected, closing old connection.
+1740160406: New client connected from 172.19.0.4:60207 as news-publisher (p2, c1, k60).
+1740160407: New connection from 172.19.0.3:38755 on port 1883.
+1740160407: Client news-subscriber already connected, closing old connection.
+1740160407: New client connected from 172.19.0.3:38755 as news-subscriber (p2, c1, k60).
+1740160407: New connection from 172.19.0.4:59523 on port 1883.
+1740160407: Client news-publisher already connected, closing old connection.
+1740160407: New client connected from 172.19.0.4:59523 as news-publisher (p2, c1, k60).
+1740160408: New connection from 172.19.0.3:56261 on port 1883.
+1740160408: Client news-subscriber already connected, closing old connection.
+1740160408: New client connected from 172.19.0.3:56261 as news-subscriber (p2, c1, k60).
+1740160408: New connection from 172.19.0.4:59541 on port 1883.
+1740160408: Client news-publisher already connected, closing old connection.
+1740160408: New client connected from 172.19.0.4:59541 as news-publisher (p2, c1, k60).
+1740160409: New connection from 172.19.0.3:49217 on port 1883.
+1740160409: Client news-subscriber already connected, closing old connection.
+1740160409: New client connected from 172.19.0.3:49217 as news-subscriber (p2, c1, k60).
+1740160409: New connection from 172.19.0.4:38527 on port 1883.
+1740160409: Client news-publisher already connected, closing old connection.
+1740160409: New client connected from 172.19.0.4:38527 as news-publisher (p2, c1, k60).
+1740160410: New connection from 172.19.0.3:55857 on port 1883.
+1740160410: Client news-subscriber already connected, closing old connection.
+1740160410: New client connected from 172.19.0.3:55857 as news-subscriber (p2, c1, k60).
+1740160410: New connection from 172.19.0.4:49623 on port 1883.
+1740160410: Client news-publisher already connected, closing old connection.
+1740160410: New client connected from 172.19.0.4:49623 as news-publisher (p2, c1, k60).
+1740160411: New connection from 172.19.0.3:40397 on port 1883.
+1740160411: Client news-subscriber already connected, closing old connection.
+1740160411: New client connected from 172.19.0.3:40397 as news-subscriber (p2, c1, k60).
+1740160411: New connection from 172.19.0.4:56463 on port 1883.
+1740160411: Client news-publisher already connected, closing old connection.
+1740160411: New client connected from 172.19.0.4:56463 as news-publisher (p2, c1, k60).
+1740160412: New connection from 172.19.0.3:43307 on port 1883.
+1740160412: Client news-subscriber already connected, closing old connection.
+1740160412: New client connected from 172.19.0.3:43307 as news-subscriber (p2, c1, k60).
+1740160412: New connection from 172.19.0.4:43199 on port 1883.
+1740160412: Client news-publisher already connected, closing old connection.
+1740160412: New client connected from 172.19.0.4:43199 as news-publisher (p2, c1, k60).
+1740160413: New connection from 172.19.0.3:36485 on port 1883.
+1740160413: Client news-subscriber already connected, closing old connection.
+1740160413: New client connected from 172.19.0.3:36485 as news-subscriber (p2, c1, k60).
+1740160413: New connection from 172.19.0.4:48815 on port 1883.
+1740160413: Client news-publisher already connected, closing old connection.
+1740160413: New client connected from 172.19.0.4:48815 as news-publisher (p2, c1, k60).
+1740160414: New connection from 172.19.0.4:33449 on port 1883.
+1740160414: Client news-publisher already connected, closing old connection.
+1740160414: New client connected from 172.19.0.4:33449 as news-publisher (p2, c1, k60).
+1740160414: New connection from 172.19.0.3:39725 on port 1883.
+1740160414: Client news-subscriber already connected, closing old connection.
+1740160414: New client connected from 172.19.0.3:39725 as news-subscriber (p2, c1, k60).
+1740160415: New connection from 172.19.0.4:56293 on port 1883.
+1740160415: Client news-publisher already connected, closing old connection.
+1740160415: New client connected from 172.19.0.4:56293 as news-publisher (p2, c1, k60).
+1740160415: New connection from 172.19.0.3:49645 on port 1883.
+1740160415: Client news-subscriber already connected, closing old connection.
+1740160415: New client connected from 172.19.0.3:49645 as news-subscriber (p2, c1, k60).
+1740160416: New connection from 172.19.0.4:34713 on port 1883.
+1740160416: Client news-publisher already connected, closing old connection.
+1740160416: New client connected from 172.19.0.4:34713 as news-publisher (p2, c1, k60).
+1740160416: New connection from 172.19.0.3:44595 on port 1883.
+1740160416: Client news-subscriber already connected, closing old connection.
+1740160416: New client connected from 172.19.0.3:44595 as news-subscriber (p2, c1, k60).
+1740160417: New connection from 172.19.0.4:34239 on port 1883.
+1740160417: Client news-publisher already connected, closing old connection.
+1740160417: New client connected from 172.19.0.4:34239 as news-publisher (p2, c1, k60).
+1740160417: New connection from 172.19.0.3:42821 on port 1883.
+1740160417: Client news-subscriber already connected, closing old connection.
+1740160417: New client connected from 172.19.0.3:42821 as news-subscriber (p2, c1, k60).
+1740160418: New connection from 172.19.0.4:44659 on port 1883.
+1740160418: Client news-publisher already connected, closing old connection.
+1740160418: New client connected from 172.19.0.4:44659 as news-publisher (p2, c1, k60).
+1740160418: New connection from 172.19.0.3:46875 on port 1883.
+1740160418: Client news-subscriber already connected, closing old connection.
+1740160418: New client connected from 172.19.0.3:46875 as news-subscriber (p2, c1, k60).
+1740160419: New connection from 172.19.0.4:41057 on port 1883.
+1740160419: Client news-publisher already connected, closing old connection.
+1740160419: New client connected from 172.19.0.4:41057 as news-publisher (p2, c1, k60).
+1740160419: New connection from 172.19.0.3:39111 on port 1883.
+1740160419: Client news-subscriber already connected, closing old connection.
+1740160419: New client connected from 172.19.0.3:39111 as news-subscriber (p2, c1, k60).
+1740160420: New connection from 172.19.0.4:43079 on port 1883.
+1740160420: Client news-publisher already connected, closing old connection.
+1740160420: New client connected from 172.19.0.4:43079 as news-publisher (p2, c1, k60).
+1740160420: New connection from 172.19.0.3:43459 on port 1883.
+1740160420: Client news-subscriber already connected, closing old connection.
+1740160420: New client connected from 172.19.0.3:43459 as news-subscriber (p2, c1, k60).
+1740160421: New connection from 172.19.0.4:34343 on port 1883.
+1740160421: Client news-publisher already connected, closing old connection.
+1740160421: New client connected from 172.19.0.4:34343 as news-publisher (p2, c1, k60).
+1740160421: New connection from 172.19.0.3:36123 on port 1883.
+1740160421: Client news-subscriber already connected, closing old connection.
+1740160421: New client connected from 172.19.0.3:36123 as news-subscriber (p2, c1, k60).
+1740160422: New connection from 172.19.0.4:39567 on port 1883.
+1740160422: Client news-publisher already connected, closing old connection.
+1740160422: New client connected from 172.19.0.4:39567 as news-publisher (p2, c1, k60).
+1740160422: New connection from 172.19.0.3:46161 on port 1883.
+1740160422: Client news-subscriber already connected, closing old connection.
+1740160422: New client connected from 172.19.0.3:46161 as news-subscriber (p2, c1, k60).
+1740160423: New connection from 172.19.0.4:43133 on port 1883.
+1740160423: Client news-publisher already connected, closing old connection.
+1740160423: New client connected from 172.19.0.4:43133 as news-publisher (p2, c1, k60).
+1740160423: New connection from 172.19.0.3:45263 on port 1883.
+1740160423: Client news-subscriber already connected, closing old connection.
+1740160423: New client connected from 172.19.0.3:45263 as news-subscriber (p2, c1, k60).
+1740160424: New connection from 172.19.0.4:45571 on port 1883.
+1740160424: Client news-publisher already connected, closing old connection.
+1740160424: New client connected from 172.19.0.4:45571 as news-publisher (p2, c1, k60).
+1740160424: New connection from 172.19.0.3:57629 on port 1883.
+1740160424: Client news-subscriber already connected, closing old connection.
+1740160424: New client connected from 172.19.0.3:57629 as news-subscriber (p2, c1, k60).
+1740160425: New connection from 172.19.0.4:59255 on port 1883.
+1740160425: Client news-publisher already connected, closing old connection.
+1740160425: New client connected from 172.19.0.4:59255 as news-publisher (p2, c1, k60).
+1740160425: New connection from 172.19.0.3:58037 on port 1883.
+1740160425: Client news-subscriber already connected, closing old connection.
+1740160425: New client connected from 172.19.0.3:58037 as news-subscriber (p2, c1, k60).
+1740160426: New connection from 172.19.0.4:55587 on port 1883.
+1740160426: Client news-publisher already connected, closing old connection.
+1740160426: New client connected from 172.19.0.4:55587 as news-publisher (p2, c1, k60).
+1740160426: New connection from 172.19.0.3:36389 on port 1883.
+1740160426: Client news-subscriber already connected, closing old connection.
+1740160426: New client connected from 172.19.0.3:36389 as news-subscriber (p2, c1, k60).
+1740160427: New connection from 172.19.0.4:59513 on port 1883.
+1740160427: Client news-publisher already connected, closing old connection.
+1740160427: New client connected from 172.19.0.4:59513 as news-publisher (p2, c1, k60).
+1740160427: New connection from 172.19.0.3:39959 on port 1883.
+1740160427: Client news-subscriber already connected, closing old connection.
+1740160427: New client connected from 172.19.0.3:39959 as news-subscriber (p2, c1, k60).
+1740160428: New connection from 172.19.0.4:46317 on port 1883.
+1740160428: Client news-publisher already connected, closing old connection.
+1740160428: New client connected from 172.19.0.4:46317 as news-publisher (p2, c1, k60).
+1740160428: New connection from 172.19.0.3:49131 on port 1883.
+1740160428: Client news-subscriber already connected, closing old connection.
+1740160428: New client connected from 172.19.0.3:49131 as news-subscriber (p2, c1, k60).
+1740160429: New connection from 172.19.0.4:45829 on port 1883.
+1740160429: Client news-publisher already connected, closing old connection.
+1740160429: New client connected from 172.19.0.4:45829 as news-publisher (p2, c1, k60).
+1740160430: New connection from 172.19.0.3:42567 on port 1883.
+1740160430: Client news-subscriber already connected, closing old connection.
+1740160430: New client connected from 172.19.0.3:42567 as news-subscriber (p2, c1, k60).
+1740160430: New connection from 172.19.0.4:37055 on port 1883.
+1740160430: Client news-publisher already connected, closing old connection.
+1740160430: New client connected from 172.19.0.4:37055 as news-publisher (p2, c1, k60).
+1740160431: New connection from 172.19.0.3:39105 on port 1883.
+1740160431: Client news-subscriber already connected, closing old connection.
+1740160431: New client connected from 172.19.0.3:39105 as news-subscriber (p2, c1, k60).
+1740160431: New connection from 172.19.0.4:38259 on port 1883.
+1740160431: Client news-publisher already connected, closing old connection.
+1740160431: New client connected from 172.19.0.4:38259 as news-publisher (p2, c1, k60).
+1740160432: New connection from 172.19.0.3:34539 on port 1883.
+1740160432: Client news-subscriber already connected, closing old connection.
+1740160432: New client connected from 172.19.0.3:34539 as news-subscriber (p2, c1, k60).
+1740160432: New connection from 172.19.0.4:34807 on port 1883.
+1740160432: Client news-publisher already connected, closing old connection.
+1740160432: New client connected from 172.19.0.4:34807 as news-publisher (p2, c1, k60).
+1740160433: New connection from 172.19.0.3:47919 on port 1883.
+1740160433: Client news-subscriber already connected, closing old connection.
+1740160433: New client connected from 172.19.0.3:47919 as news-subscriber (p2, c1, k60).
+1740160433: New connection from 172.19.0.4:57453 on port 1883.
+1740160433: Client news-publisher already connected, closing old connection.
+1740160433: New client connected from 172.19.0.4:57453 as news-publisher (p2, c1, k60).
+1740160434: New connection from 172.19.0.3:49065 on port 1883.
+1740160434: Client news-subscriber already connected, closing old connection.
+1740160434: New client connected from 172.19.0.3:49065 as news-subscriber (p2, c1, k60).
+1740160434: New connection from 172.19.0.4:57745 on port 1883.
+1740160434: Client news-publisher already connected, closing old connection.
+1740160434: New client connected from 172.19.0.4:57745 as news-publisher (p2, c1, k60).
+1740160435: New connection from 172.19.0.3:54935 on port 1883.
+1740160435: Client news-subscriber already connected, closing old connection.
+1740160435: New client connected from 172.19.0.3:54935 as news-subscriber (p2, c1, k60).
+1740160435: New connection from 172.19.0.4:57355 on port 1883.
+1740160435: Client news-publisher already connected, closing old connection.
+1740160435: New client connected from 172.19.0.4:57355 as news-publisher (p2, c1, k60).
+1740160436: New connection from 172.19.0.3:57307 on port 1883.
+1740160436: Client news-subscriber already connected, closing old connection.
+1740160436: New client connected from 172.19.0.3:57307 as news-subscriber (p2, c1, k60).
+1740160436: New connection from 172.19.0.4:58581 on port 1883.
+1740160436: Client news-publisher already connected, closing old connection.
+1740160436: New client connected from 172.19.0.4:58581 as news-publisher (p2, c1, k60).
+1740160437: New connection from 172.19.0.3:34055 on port 1883.
+1740160437: Client news-subscriber already connected, closing old connection.
+1740160437: New client connected from 172.19.0.3:34055 as news-subscriber (p2, c1, k60).
+1740160437: New connection from 172.19.0.4:37639 on port 1883.
+1740160437: Client news-publisher already connected, closing old connection.
+1740160437: New client connected from 172.19.0.4:37639 as news-publisher (p2, c1, k60).
+1740160438: New connection from 172.19.0.3:50151 on port 1883.
+1740160438: Client news-subscriber already connected, closing old connection.
+1740160438: New client connected from 172.19.0.3:50151 as news-subscriber (p2, c1, k60).
+1740160438: New connection from 172.19.0.4:35407 on port 1883.
+1740160438: Client news-publisher already connected, closing old connection.
+1740160438: New client connected from 172.19.0.4:35407 as news-publisher (p2, c1, k60).
+1740160439: New connection from 172.19.0.3:54423 on port 1883.
+1740160439: New connection from 172.19.0.4:48923 on port 1883.
+1740160439: Client news-publisher already connected, closing old connection.
+1740160439: New client connected from 172.19.0.4:48923 as news-publisher (p2, c1, k60).
+1740160439: Client news-subscriber already connected, closing old connection.
+1740160439: New client connected from 172.19.0.3:54423 as news-subscriber (p2, c1, k60).
+1740160440: New connection from 172.19.0.4:47223 on port 1883.
+1740160440: Client news-publisher already connected, closing old connection.
+1740160440: New client connected from 172.19.0.4:47223 as news-publisher (p2, c1, k60).
+1740160440: New connection from 172.19.0.3:46357 on port 1883.
+1740160440: Client news-subscriber already connected, closing old connection.
+1740160440: New client connected from 172.19.0.3:46357 as news-subscriber (p2, c1, k60).
+1740160441: New connection from 172.19.0.4:34469 on port 1883.
+1740160441: Client news-publisher already connected, closing old connection.
+1740160441: New client connected from 172.19.0.4:34469 as news-publisher (p2, c1, k60).
+1740160441: New connection from 172.19.0.3:55877 on port 1883.
+1740160441: Client news-subscriber already connected, closing old connection.
+1740160441: New client connected from 172.19.0.3:55877 as news-subscriber (p2, c1, k60).
+1740160442: New connection from 172.19.0.4:51723 on port 1883.
+1740160442: Client news-publisher already connected, closing old connection.
+1740160442: New client connected from 172.19.0.4:51723 as news-publisher (p2, c1, k60).
+1740160442: New connection from 172.19.0.3:44551 on port 1883.
+1740160442: Client news-subscriber already connected, closing old connection.
+1740160442: New client connected from 172.19.0.3:44551 as news-subscriber (p2, c1, k60).
+1740160443: New connection from 172.19.0.4:40489 on port 1883.
+1740160443: Client news-publisher already connected, closing old connection.
+1740160443: New client connected from 172.19.0.4:40489 as news-publisher (p2, c1, k60).
+1740160443: New connection from 172.19.0.3:47903 on port 1883.
+1740160443: Client news-subscriber already connected, closing old connection.
+1740160443: New client connected from 172.19.0.3:47903 as news-subscriber (p2, c1, k60).
+1740160444: New connection from 172.19.0.4:41853 on port 1883.
+1740160444: Client news-publisher already connected, closing old connection.
+1740160444: New client connected from 172.19.0.4:41853 as news-publisher (p2, c1, k60).
+1740160444: New connection from 172.19.0.3:58109 on port 1883.
+1740160444: Client news-subscriber already connected, closing old connection.
+1740160444: New client connected from 172.19.0.3:58109 as news-subscriber (p2, c1, k60).
+1740160445: New connection from 172.19.0.4:46749 on port 1883.
+1740160445: Client news-publisher already connected, closing old connection.
+1740160445: New client connected from 172.19.0.4:46749 as news-publisher (p2, c1, k60).
+1740160445: New connection from 172.19.0.3:59247 on port 1883.
+1740160445: Client news-subscriber already connected, closing old connection.
+1740160445: New client connected from 172.19.0.3:59247 as news-subscriber (p2, c1, k60).
+1740160446: New connection from 172.19.0.4:36665 on port 1883.
+1740160446: Client news-publisher already connected, closing old connection.
+1740160446: New client connected from 172.19.0.4:36665 as news-publisher (p2, c1, k60).
+1740160446: New connection from 172.19.0.3:33071 on port 1883.
+1740160446: Client news-subscriber already connected, closing old connection.
+1740160446: New client connected from 172.19.0.3:33071 as news-subscriber (p2, c1, k60).
+1740160447: New connection from 172.19.0.4:57853 on port 1883.
+1740160447: Client news-publisher already connected, closing old connection.
+1740160447: New client connected from 172.19.0.4:57853 as news-publisher (p2, c1, k60).
+1740160447: New connection from 172.19.0.3:58545 on port 1883.
+1740160447: Client news-subscriber already connected, closing old connection.
+1740160447: New client connected from 172.19.0.3:58545 as news-subscriber (p2, c1, k60).
+1740160448: New connection from 172.19.0.4:43695 on port 1883.
+1740160448: Client news-publisher already connected, closing old connection.
+1740160448: New client connected from 172.19.0.4:43695 as news-publisher (p2, c1, k60).
+1740160448: New connection from 172.19.0.3:51383 on port 1883.
+1740160448: Client news-subscriber already connected, closing old connection.
+1740160448: New client connected from 172.19.0.3:51383 as news-subscriber (p2, c1, k60).
+1740160449: New connection from 172.19.0.4:49465 on port 1883.
+1740160449: Client news-publisher already connected, closing old connection.
+1740160449: New client connected from 172.19.0.4:49465 as news-publisher (p2, c1, k60).
+1740160449: New connection from 172.19.0.3:43547 on port 1883.
+1740160449: Client news-subscriber already connected, closing old connection.
+1740160449: New client connected from 172.19.0.3:43547 as news-subscriber (p2, c1, k60).
+1740160450: New connection from 172.19.0.4:40735 on port 1883.
+1740160450: Client news-publisher already connected, closing old connection.
+1740160450: New client connected from 172.19.0.4:40735 as news-publisher (p2, c1, k60).
+1740160450: New connection from 172.19.0.3:47081 on port 1883.
+1740160450: Client news-subscriber already connected, closing old connection.
+1740160450: New client connected from 172.19.0.3:47081 as news-subscriber (p2, c1, k60).
+1740160451: New connection from 172.19.0.4:49911 on port 1883.
+1740160451: Client news-publisher already connected, closing old connection.
+1740160451: New client connected from 172.19.0.4:49911 as news-publisher (p2, c1, k60).
+1740160451: New connection from 172.19.0.3:45765 on port 1883.
+1740160451: Client news-subscriber already connected, closing old connection.
+1740160451: New client connected from 172.19.0.3:45765 as news-subscriber (p2, c1, k60).
+1740160452: New connection from 172.19.0.4:38819 on port 1883.
+1740160452: Client news-publisher already connected, closing old connection.
+1740160452: New client connected from 172.19.0.4:38819 as news-publisher (p2, c1, k60).
+1740160453: New connection from 172.19.0.3:35323 on port 1883.
+1740160453: Client news-subscriber already connected, closing old connection.
+1740160453: New client connected from 172.19.0.3:35323 as news-subscriber (p2, c1, k60).
+1740160453: New connection from 172.19.0.4:38367 on port 1883.
+1740160453: Client news-publisher already connected, closing old connection.
+1740160453: New client connected from 172.19.0.4:38367 as news-publisher (p2, c1, k60).
+1740160454: New connection from 172.19.0.3:55477 on port 1883.
+1740160454: Client news-subscriber already connected, closing old connection.
+1740160454: New client connected from 172.19.0.3:55477 as news-subscriber (p2, c1, k60).
+1740160454: New connection from 172.19.0.4:36007 on port 1883.
+1740160454: Client news-publisher already connected, closing old connection.
+1740160454: New client connected from 172.19.0.4:36007 as news-publisher (p2, c1, k60).
+1740160455: New connection from 172.19.0.3:42275 on port 1883.
+1740160455: Client news-subscriber already connected, closing old connection.
+1740160455: New client connected from 172.19.0.3:42275 as news-subscriber (p2, c1, k60).
+1740160455: New connection from 172.19.0.4:53967 on port 1883.
+1740160455: Client news-publisher already connected, closing old connection.
+1740160455: New client connected from 172.19.0.4:53967 as news-publisher (p2, c1, k60).
+1740160456: New connection from 172.19.0.3:41793 on port 1883.
+1740160456: Client news-subscriber already connected, closing old connection.
+1740160456: New client connected from 172.19.0.3:41793 as news-subscriber (p2, c1, k60).
+1740160456: New connection from 172.19.0.4:56673 on port 1883.
+1740160456: Client news-publisher already connected, closing old connection.
+1740160456: New client connected from 172.19.0.4:56673 as news-publisher (p2, c1, k60).
+1740160457: New connection from 172.19.0.3:40111 on port 1883.
+1740160457: Client news-subscriber already connected, closing old connection.
+1740160457: New client connected from 172.19.0.3:40111 as news-subscriber (p2, c1, k60).
+1740160457: New connection from 172.19.0.4:34679 on port 1883.
+1740160457: Client news-publisher already connected, closing old connection.
+1740160457: New client connected from 172.19.0.4:34679 as news-publisher (p2, c1, k60).
+1740160458: New connection from 172.19.0.3:43229 on port 1883.
+1740160458: Client news-subscriber already connected, closing old connection.
+1740160458: New client connected from 172.19.0.3:43229 as news-subscriber (p2, c1, k60).
+1740160458: New connection from 172.19.0.4:50861 on port 1883.
+1740160458: Client news-publisher already connected, closing old connection.
+1740160458: New client connected from 172.19.0.4:50861 as news-publisher (p2, c1, k60).
+1740160459: New connection from 172.19.0.3:58121 on port 1883.
+1740160459: Client news-subscriber already connected, closing old connection.
+1740160459: New client connected from 172.19.0.3:58121 as news-subscriber (p2, c1, k60).
+1740160459: New connection from 172.19.0.4:43195 on port 1883.
+1740160459: Client news-publisher already connected, closing old connection.
+1740160459: New client connected from 172.19.0.4:43195 as news-publisher (p2, c1, k60).
+1740160460: New connection from 172.19.0.3:47023 on port 1883.
+1740160460: Client news-subscriber already connected, closing old connection.
+1740160460: New client connected from 172.19.0.3:47023 as news-subscriber (p2, c1, k60).
+1740160460: New connection from 172.19.0.4:51675 on port 1883.
+1740160460: Client news-publisher already connected, closing old connection.
+1740160460: New client connected from 172.19.0.4:51675 as news-publisher (p2, c1, k60).
+1740160461: New connection from 172.19.0.3:56505 on port 1883.
+1740160461: Client news-subscriber already connected, closing old connection.
+1740160461: New client connected from 172.19.0.3:56505 as news-subscriber (p2, c1, k60).
+1740160461: New connection from 172.19.0.4:57555 on port 1883.
+1740160461: Client news-publisher already connected, closing old connection.
+1740160461: New client connected from 172.19.0.4:57555 as news-publisher (p2, c1, k60).
+1740160462: New connection from 172.19.0.3:44755 on port 1883.
+1740160462: Client news-subscriber already connected, closing old connection.
+1740160462: New client connected from 172.19.0.3:44755 as news-subscriber (p2, c1, k60).
+1740160462: New connection from 172.19.0.4:49649 on port 1883.
+1740160462: Client news-publisher already connected, closing old connection.
+1740160462: New client connected from 172.19.0.4:49649 as news-publisher (p2, c1, k60).
+1740160463: New connection from 172.19.0.3:54917 on port 1883.
+1740160463: New connection from 172.19.0.4:33361 on port 1883.
+1740160463: Client news-publisher already connected, closing old connection.
+1740160463: New client connected from 172.19.0.4:33361 as news-publisher (p2, c1, k60).
+1740160463: Client news-subscriber already connected, closing old connection.
+1740160463: New client connected from 172.19.0.3:54917 as news-subscriber (p2, c1, k60).
+1740160464: New connection from 172.19.0.4:47467 on port 1883.
+1740160464: Client news-publisher already connected, closing old connection.
+1740160464: New client connected from 172.19.0.4:47467 as news-publisher (p2, c1, k60).
+1740160464: New connection from 172.19.0.3:35989 on port 1883.
+1740160464: Client news-subscriber already connected, closing old connection.
+1740160464: New client connected from 172.19.0.3:35989 as news-subscriber (p2, c1, k60).
+1740160465: New connection from 172.19.0.4:48909 on port 1883.
+1740160465: Client news-publisher already connected, closing old connection.
+1740160465: New client connected from 172.19.0.4:48909 as news-publisher (p2, c1, k60).
+1740160465: New connection from 172.19.0.3:43597 on port 1883.
+1740160465: Client news-subscriber already connected, closing old connection.
+1740160465: New client connected from 172.19.0.3:43597 as news-subscriber (p2, c1, k60).
+1740160466: New connection from 172.19.0.4:49079 on port 1883.
+1740160466: Client news-publisher already connected, closing old connection.
+1740160466: New client connected from 172.19.0.4:49079 as news-publisher (p2, c1, k60).
+1740160466: New connection from 172.19.0.3:59233 on port 1883.
+1740160466: Client news-subscriber already connected, closing old connection.
+1740160466: New client connected from 172.19.0.3:59233 as news-subscriber (p2, c1, k60).
+1740160467: New connection from 172.19.0.4:52987 on port 1883.
+1740160467: Client news-publisher already connected, closing old connection.
+1740160467: New client connected from 172.19.0.4:52987 as news-publisher (p2, c1, k60).
+1740160467: New connection from 172.19.0.3:55425 on port 1883.
+1740160467: Client news-subscriber already connected, closing old connection.
+1740160467: New client connected from 172.19.0.3:55425 as news-subscriber (p2, c1, k60).
+1740160468: New connection from 172.19.0.4:42893 on port 1883.
+1740160468: Client news-publisher already connected, closing old connection.
+1740160468: New client connected from 172.19.0.4:42893 as news-publisher (p2, c1, k60).
+1740160468: New connection from 172.19.0.3:56379 on port 1883.
+1740160468: Client news-subscriber already connected, closing old connection.
+1740160468: New client connected from 172.19.0.3:56379 as news-subscriber (p2, c1, k60).
+1740160469: New connection from 172.19.0.4:49291 on port 1883.
+1740160469: Client news-publisher already connected, closing old connection.
+1740160469: New client connected from 172.19.0.4:49291 as news-publisher (p2, c1, k60).
+1740160469: New connection from 172.19.0.3:32807 on port 1883.
+1740160469: Client news-subscriber already connected, closing old connection.
+1740160469: New client connected from 172.19.0.3:32807 as news-subscriber (p2, c1, k60).
+1740160470: New connection from 172.19.0.4:53483 on port 1883.
+1740160470: Client news-publisher already connected, closing old connection.
+1740160470: New client connected from 172.19.0.4:53483 as news-publisher (p2, c1, k60).
+1740160470: New connection from 172.19.0.3:33215 on port 1883.
+1740160470: Client news-subscriber already connected, closing old connection.
+1740160470: New client connected from 172.19.0.3:33215 as news-subscriber (p2, c1, k60).
+1740160471: New connection from 172.19.0.4:58573 on port 1883.
+1740160471: Client news-publisher already connected, closing old connection.
+1740160471: New client connected from 172.19.0.4:58573 as news-publisher (p2, c1, k60).
+1740160471: New connection from 172.19.0.3:34145 on port 1883.
+1740160471: Client news-subscriber already connected, closing old connection.
+1740160471: New client connected from 172.19.0.3:34145 as news-subscriber (p2, c1, k60).
+1740160472: New connection from 172.19.0.4:60681 on port 1883.
+1740160472: Client news-publisher already connected, closing old connection.
+1740160472: New client connected from 172.19.0.4:60681 as news-publisher (p2, c1, k60).
+1740160472: New connection from 172.19.0.3:38197 on port 1883.
+1740160472: Client news-subscriber already connected, closing old connection.
+1740160472: New client connected from 172.19.0.3:38197 as news-subscriber (p2, c1, k60).
+1740160473: New connection from 172.19.0.4:35665 on port 1883.
+1740160473: Client news-publisher already connected, closing old connection.
+1740160473: New client connected from 172.19.0.4:35665 as news-publisher (p2, c1, k60).
+1740160473: New connection from 172.19.0.3:37715 on port 1883.
+1740160474: Client news-subscriber already connected, closing old connection.
+1740160474: New client connected from 172.19.0.3:37715 as news-subscriber (p2, c1, k60).
+1740160474: New connection from 172.19.0.4:37361 on port 1883.
+1740160474: Client news-publisher already connected, closing old connection.
+1740160474: New client connected from 172.19.0.4:37361 as news-publisher (p2, c1, k60).
+1740160475: New connection from 172.19.0.3:40227 on port 1883.
+1740160475: Client news-subscriber already connected, closing old connection.
+1740160475: New client connected from 172.19.0.3:40227 as news-subscriber (p2, c1, k60).
+1740160475: New connection from 172.19.0.4:38155 on port 1883.
+1740160475: Client news-publisher already connected, closing old connection.
+1740160475: New client connected from 172.19.0.4:38155 as news-publisher (p2, c1, k60).
+1740160476: New connection from 172.19.0.3:49865 on port 1883.
+1740160476: Client news-subscriber already connected, closing old connection.
+1740160476: New client connected from 172.19.0.3:49865 as news-subscriber (p2, c1, k60).
+1740160476: New connection from 172.19.0.4:45417 on port 1883.
+1740160476: Client news-publisher already connected, closing old connection.
+1740160476: New client connected from 172.19.0.4:45417 as news-publisher (p2, c1, k60).
+1740160477: New connection from 172.19.0.3:51777 on port 1883.
+1740160477: Client news-subscriber already connected, closing old connection.
+1740160477: New client connected from 172.19.0.3:51777 as news-subscriber (p2, c1, k60).
+1740160477: New connection from 172.19.0.4:50527 on port 1883.
+1740160477: Client news-publisher already connected, closing old connection.
+1740160477: New client connected from 172.19.0.4:50527 as news-publisher (p2, c1, k60).
+1740160478: New connection from 172.19.0.3:34019 on port 1883.
+1740160478: Client news-subscriber already connected, closing old connection.
+1740160478: New client connected from 172.19.0.3:34019 as news-subscriber (p2, c1, k60).
+1740160478: New connection from 172.19.0.4:40891 on port 1883.
+1740160478: Client news-publisher already connected, closing old connection.
+1740160478: New client connected from 172.19.0.4:40891 as news-publisher (p2, c1, k60).
+1740160479: New connection from 172.19.0.3:56979 on port 1883.
+1740160479: Client news-subscriber already connected, closing old connection.
+1740160479: New client connected from 172.19.0.3:56979 as news-subscriber (p2, c1, k60).
+1740160479: New connection from 172.19.0.4:42435 on port 1883.
+1740160479: Client news-publisher already connected, closing old connection.
+1740160479: New client connected from 172.19.0.4:42435 as news-publisher (p2, c1, k60).
+1740160480: New connection from 172.19.0.3:48443 on port 1883.
+1740160480: Client news-subscriber already connected, closing old connection.
+1740160480: New client connected from 172.19.0.3:48443 as news-subscriber (p2, c1, k60).
+1740160480: New connection from 172.19.0.4:40825 on port 1883.
+1740160480: Client news-publisher already connected, closing old connection.
+1740160480: New client connected from 172.19.0.4:40825 as news-publisher (p2, c1, k60).
+1740160481: New connection from 172.19.0.3:36411 on port 1883.
+1740160481: Client news-subscriber already connected, closing old connection.
+1740160481: New client connected from 172.19.0.3:36411 as news-subscriber (p2, c1, k60).
+1740160481: New connection from 172.19.0.4:59629 on port 1883.
+1740160481: Client news-publisher already connected, closing old connection.
+1740160481: New client connected from 172.19.0.4:59629 as news-publisher (p2, c1, k60).
+1740160482: New connection from 172.19.0.3:51799 on port 1883.
+1740160482: Client news-subscriber already connected, closing old connection.
+1740160482: New client connected from 172.19.0.3:51799 as news-subscriber (p2, c1, k60).
+1740160482: New connection from 172.19.0.4:54475 on port 1883.
+1740160482: Client news-publisher already connected, closing old connection.
+1740160482: New client connected from 172.19.0.4:54475 as news-publisher (p2, c1, k60).
+1740160483: New connection from 172.19.0.3:41681 on port 1883.
+1740160483: Client news-subscriber already connected, closing old connection.
+1740160483: New client connected from 172.19.0.3:41681 as news-subscriber (p2, c1, k60).
+1740160483: New connection from 172.19.0.4:42537 on port 1883.
+1740160483: Client news-publisher already connected, closing old connection.
+1740160483: New client connected from 172.19.0.4:42537 as news-publisher (p2, c1, k60).
+1740160484: New connection from 172.19.0.3:57825 on port 1883.
+1740160484: Client news-subscriber already connected, closing old connection.
+1740160484: New client connected from 172.19.0.3:57825 as news-subscriber (p2, c1, k60).
+1740160484: New connection from 172.19.0.4:54845 on port 1883.
+1740160484: Client news-publisher already connected, closing old connection.
+1740160484: New client connected from 172.19.0.4:54845 as news-publisher (p2, c1, k60).
+1740160485: New connection from 172.19.0.4:58095 on port 1883.
+1740160485: Client news-publisher already connected, closing old connection.
+1740160485: New client connected from 172.19.0.4:58095 as news-publisher (p2, c1, k60).
+1740160485: New connection from 172.19.0.3:33681 on port 1883.
+1740160485: Client news-subscriber already connected, closing old connection.
+1740160485: New client connected from 172.19.0.3:33681 as news-subscriber (p2, c1, k60).
+1740160486: New connection from 172.19.0.4:46027 on port 1883.
+1740160486: Client news-publisher already connected, closing old connection.
+1740160486: New client connected from 172.19.0.4:46027 as news-publisher (p2, c1, k60).
+1740160486: New connection from 172.19.0.3:38629 on port 1883.
+1740160486: Client news-subscriber already connected, closing old connection.
+1740160486: New client connected from 172.19.0.3:38629 as news-subscriber (p2, c1, k60).
+1740160487: New connection from 172.19.0.4:39207 on port 1883.
+1740160487: Client news-publisher already connected, closing old connection.
+1740160487: New client connected from 172.19.0.4:39207 as news-publisher (p2, c1, k60).
+1740160487: New connection from 172.19.0.3:49459 on port 1883.
+1740160487: Client news-subscriber already connected, closing old connection.
+1740160487: New client connected from 172.19.0.3:49459 as news-subscriber (p2, c1, k60).
+1740160488: New connection from 172.19.0.4:36779 on port 1883.
+1740160488: Client news-publisher already connected, closing old connection.
+1740160488: New client connected from 172.19.0.4:36779 as news-publisher (p2, c1, k60).
+1740160488: New connection from 172.19.0.3:50795 on port 1883.
+1740160488: Client news-subscriber already connected, closing old connection.
+1740160488: New client connected from 172.19.0.3:50795 as news-subscriber (p2, c1, k60).
+1740160489: New connection from 172.19.0.4:48995 on port 1883.
+1740160489: Client news-publisher already connected, closing old connection.
+1740160489: New client connected from 172.19.0.4:48995 as news-publisher (p2, c1, k60).
+1740160489: New connection from 172.19.0.3:55445 on port 1883.
+1740160489: Client news-subscriber already connected, closing old connection.
+1740160489: New client connected from 172.19.0.3:55445 as news-subscriber (p2, c1, k60).
+1740160490: New connection from 172.19.0.4:37517 on port 1883.
+1740160490: Client news-publisher already connected, closing old connection.
+1740160490: New client connected from 172.19.0.4:37517 as news-publisher (p2, c1, k60).
+1740160490: New connection from 172.19.0.3:43877 on port 1883.
+1740160490: Client news-subscriber already connected, closing old connection.
+1740160490: New client connected from 172.19.0.3:43877 as news-subscriber (p2, c1, k60).
+1740160491: New connection from 172.19.0.4:52135 on port 1883.
+1740160491: Client news-publisher already connected, closing old connection.
+1740160491: New client connected from 172.19.0.4:52135 as news-publisher (p2, c1, k60).
+1740160491: New connection from 172.19.0.3:58023 on port 1883.
+1740160491: Client news-subscriber already connected, closing old connection.
+1740160491: New client connected from 172.19.0.3:58023 as news-subscriber (p2, c1, k60).
+1740160492: New connection from 172.19.0.4:49779 on port 1883.
+1740160492: Client news-publisher already connected, closing old connection.
+1740160492: New client connected from 172.19.0.4:49779 as news-publisher (p2, c1, k60).
+1740160492: New connection from 172.19.0.3:40623 on port 1883.
+1740160492: Client news-subscriber already connected, closing old connection.
+1740160492: New client connected from 172.19.0.3:40623 as news-subscriber (p2, c1, k60).
+1740160493: New connection from 172.19.0.4:37531 on port 1883.
+1740160493: Client news-publisher already connected, closing old connection.
+1740160493: New client connected from 172.19.0.4:37531 as news-publisher (p2, c1, k60).
+1740160493: New connection from 172.19.0.3:46481 on port 1883.
+1740160493: Client news-subscriber already connected, closing old connection.
+1740160493: New client connected from 172.19.0.3:46481 as news-subscriber (p2, c1, k60).
+1740160494: New connection from 172.19.0.4:41057 on port 1883.
+1740160494: Client news-publisher already connected, closing old connection.
+1740160494: New client connected from 172.19.0.4:41057 as news-publisher (p2, c1, k60).
+1740160494: New connection from 172.19.0.3:44115 on port 1883.
+1740160494: Client news-subscriber already connected, closing old connection.
+1740160494: New client connected from 172.19.0.3:44115 as news-subscriber (p2, c1, k60).
+1740160495: New connection from 172.19.0.4:39739 on port 1883.
+1740160495: Client news-publisher already connected, closing old connection.
+1740160495: New client connected from 172.19.0.4:39739 as news-publisher (p2, c1, k60).
+1740160495: New connection from 172.19.0.3:58731 on port 1883.
+1740160496: Client news-subscriber already connected, closing old connection.
+1740160496: New client connected from 172.19.0.3:58731 as news-subscriber (p2, c1, k60).
+1740160496: New connection from 172.19.0.4:49021 on port 1883.
+1740160496: Client news-publisher already connected, closing old connection.
+1740160496: New client connected from 172.19.0.4:49021 as news-publisher (p2, c1, k60).
+1740160497: New connection from 172.19.0.3:38455 on port 1883.
+1740160497: Client news-subscriber already connected, closing old connection.
+1740160497: New client connected from 172.19.0.3:38455 as news-subscriber (p2, c1, k60).
+1740160497: New connection from 172.19.0.4:45059 on port 1883.
+1740160497: Client news-publisher already connected, closing old connection.
+1740160497: New client connected from 172.19.0.4:45059 as news-publisher (p2, c1, k60).
+1740160498: New connection from 172.19.0.3:55803 on port 1883.
+1740160498: Client news-subscriber already connected, closing old connection.
+1740160498: New client connected from 172.19.0.3:55803 as news-subscriber (p2, c1, k60).
+1740160498: New connection from 172.19.0.4:58821 on port 1883.
+1740160498: Client news-publisher already connected, closing old connection.
+1740160498: New client connected from 172.19.0.4:58821 as news-publisher (p2, c1, k60).
+1740160499: New connection from 172.19.0.3:57173 on port 1883.
+1740160499: Client news-subscriber already connected, closing old connection.
+1740160499: New client connected from 172.19.0.3:57173 as news-subscriber (p2, c1, k60).
+1740160499: New connection from 172.19.0.4:57075 on port 1883.
+1740160499: Client news-publisher already connected, closing old connection.
+1740160499: New client connected from 172.19.0.4:57075 as news-publisher (p2, c1, k60).
+1740160500: New connection from 172.19.0.3:36689 on port 1883.
+1740160500: Client news-subscriber already connected, closing old connection.
+1740160500: New client connected from 172.19.0.3:36689 as news-subscriber (p2, c1, k60).
+1740160500: New connection from 172.19.0.4:34413 on port 1883.
+1740160500: Client news-publisher already connected, closing old connection.
+1740160500: New client connected from 172.19.0.4:34413 as news-publisher (p2, c1, k60).
+1740160501: New connection from 172.19.0.3:45743 on port 1883.
+1740160501: Client news-subscriber already connected, closing old connection.
+1740160501: New client connected from 172.19.0.3:45743 as news-subscriber (p2, c1, k60).
+1740160501: New connection from 172.19.0.4:45247 on port 1883.
+1740160501: Client news-publisher already connected, closing old connection.
+1740160501: New client connected from 172.19.0.4:45247 as news-publisher (p2, c1, k60).
+1740160502: New connection from 172.19.0.3:51905 on port 1883.
+1740160502: Client news-subscriber already connected, closing old connection.
+1740160502: New client connected from 172.19.0.3:51905 as news-subscriber (p2, c1, k60).
+1740160502: New connection from 172.19.0.4:38527 on port 1883.
+1740160502: Client news-publisher already connected, closing old connection.
+1740160502: New client connected from 172.19.0.4:38527 as news-publisher (p2, c1, k60).
+1740160503: New connection from 172.19.0.3:45331 on port 1883.
+1740160503: Client news-subscriber already connected, closing old connection.
+1740160503: New client connected from 172.19.0.3:45331 as news-subscriber (p2, c1, k60).
+1740160503: New connection from 172.19.0.4:43381 on port 1883.
+1740160503: Client news-publisher already connected, closing old connection.
+1740160503: New client connected from 172.19.0.4:43381 as news-publisher (p2, c1, k60).
+1740160504: New connection from 172.19.0.3:40507 on port 1883.
+1740160504: Client news-subscriber already connected, closing old connection.
+1740160504: New client connected from 172.19.0.3:40507 as news-subscriber (p2, c1, k60).
+1740160504: New connection from 172.19.0.4:51269 on port 1883.
+1740160504: Client news-publisher already connected, closing old connection.
+1740160504: New client connected from 172.19.0.4:51269 as news-publisher (p2, c1, k60).
+1740160505: New connection from 172.19.0.3:37303 on port 1883.
+1740160505: Client news-subscriber already connected, closing old connection.
+1740160505: New client connected from 172.19.0.3:37303 as news-subscriber (p2, c1, k60).
+1740160505: New connection from 172.19.0.4:41929 on port 1883.
+1740160505: Client news-publisher already connected, closing old connection.
+1740160505: New client connected from 172.19.0.4:41929 as news-publisher (p2, c1, k60).
+1740160506: New connection from 172.19.0.3:33887 on port 1883.
+1740160506: Client news-subscriber already connected, closing old connection.
+1740160506: New client connected from 172.19.0.3:33887 as news-subscriber (p2, c1, k60).
+1740160506: New connection from 172.19.0.4:60503 on port 1883.
+1740160506: Client news-publisher already connected, closing old connection.
+1740160506: New client connected from 172.19.0.4:60503 as news-publisher (p2, c1, k60).
+1740160507: New connection from 172.19.0.3:43709 on port 1883.
+1740160507: Client news-subscriber already connected, closing old connection.
+1740160507: New client connected from 172.19.0.3:43709 as news-subscriber (p2, c1, k60).
+1740160507: New connection from 172.19.0.4:34157 on port 1883.
+1740160507: Client news-publisher already connected, closing old connection.
+1740160507: New client connected from 172.19.0.4:34157 as news-publisher (p2, c1, k60).
+1740160508: New connection from 172.19.0.3:53037 on port 1883.
+1740160508: Client news-subscriber already connected, closing old connection.
+1740160508: New client connected from 172.19.0.3:53037 as news-subscriber (p2, c1, k60).
+1740160508: New connection from 172.19.0.4:44705 on port 1883.
+1740160508: Client news-publisher already connected, closing old connection.
+1740160508: New client connected from 172.19.0.4:44705 as news-publisher (p2, c1, k60).
+1740160509: New connection from 172.19.0.3:46271 on port 1883.
+1740160509: Client news-subscriber already connected, closing old connection.
+1740160509: New client connected from 172.19.0.3:46271 as news-subscriber (p2, c1, k60).
+1740160509: New connection from 172.19.0.4:34607 on port 1883.
+1740160509: Client news-publisher already connected, closing old connection.
+1740160509: New client connected from 172.19.0.4:34607 as news-publisher (p2, c1, k60).
+1740160510: New connection from 172.19.0.3:51791 on port 1883.
+1740160510: New connection from 172.19.0.4:41585 on port 1883.
+1740160510: Client news-publisher already connected, closing old connection.
+1740160510: New client connected from 172.19.0.4:41585 as news-publisher (p2, c1, k60).
+1740160510: Client news-subscriber already connected, closing old connection.
+1740160510: New client connected from 172.19.0.3:51791 as news-subscriber (p2, c1, k60).
+1740160511: New connection from 172.19.0.4:32995 on port 1883.
+1740160511: Client news-publisher already connected, closing old connection.
+1740160511: New client connected from 172.19.0.4:32995 as news-publisher (p2, c1, k60).
+1740160511: New connection from 172.19.0.3:59077 on port 1883.
+1740160511: Client news-subscriber already connected, closing old connection.
+1740160511: New client connected from 172.19.0.3:59077 as news-subscriber (p2, c1, k60).
+1740160512: New connection from 172.19.0.4:50991 on port 1883.
+1740160512: Client news-publisher already connected, closing old connection.
+1740160512: New client connected from 172.19.0.4:50991 as news-publisher (p2, c1, k60).
+1740160512: New connection from 172.19.0.3:45863 on port 1883.
+1740160512: Client news-subscriber already connected, closing old connection.
+1740160512: New client connected from 172.19.0.3:45863 as news-subscriber (p2, c1, k60).
+1740160513: New connection from 172.19.0.4:35769 on port 1883.
+1740160513: Client news-publisher already connected, closing old connection.
+1740160513: New client connected from 172.19.0.4:35769 as news-publisher (p2, c1, k60).
+1740160513: New connection from 172.19.0.3:58799 on port 1883.
+1740160513: Client news-subscriber already connected, closing old connection.
+1740160513: New client connected from 172.19.0.3:58799 as news-subscriber (p2, c1, k60).
+1740160514: New connection from 172.19.0.4:47621 on port 1883.
+1740160514: Client news-publisher already connected, closing old connection.
+1740160514: New client connected from 172.19.0.4:47621 as news-publisher (p2, c1, k60).
+1740160514: New connection from 172.19.0.3:40211 on port 1883.
+1740160514: Client news-subscriber already connected, closing old connection.
+1740160514: New client connected from 172.19.0.3:40211 as news-subscriber (p2, c1, k60).
+1740160515: New connection from 172.19.0.4:47131 on port 1883.
+1740160515: Client news-publisher already connected, closing old connection.
+1740160515: New client connected from 172.19.0.4:47131 as news-publisher (p2, c1, k60).
+1740160515: New connection from 172.19.0.3:52635 on port 1883.
+1740160515: Client news-subscriber already connected, closing old connection.
+1740160515: New client connected from 172.19.0.3:52635 as news-subscriber (p2, c1, k60).
+1740160516: New connection from 172.19.0.4:57405 on port 1883.
+1740160516: Client news-publisher already connected, closing old connection.
+1740160516: New client connected from 172.19.0.4:57405 as news-publisher (p2, c1, k60).
+1740160516: New connection from 172.19.0.3:42603 on port 1883.
+1740160516: Client news-subscriber already connected, closing old connection.
+1740160516: New client connected from 172.19.0.3:42603 as news-subscriber (p2, c1, k60).
+1740160517: New connection from 172.19.0.4:60475 on port 1883.
+1740160517: Client news-publisher already connected, closing old connection.
+1740160517: New client connected from 172.19.0.4:60475 as news-publisher (p2, c1, k60).
+1740160517: New connection from 172.19.0.3:41619 on port 1883.
+1740160517: Client news-subscriber already connected, closing old connection.
+1740160517: New client connected from 172.19.0.3:41619 as news-subscriber (p2, c1, k60).
+1740160518: New connection from 172.19.0.4:42387 on port 1883.
+1740160518: Client news-publisher already connected, closing old connection.
+1740160518: New client connected from 172.19.0.4:42387 as news-publisher (p2, c1, k60).
+1740160518: New connection from 172.19.0.3:46531 on port 1883.
+1740160518: Client news-subscriber already connected, closing old connection.
+1740160518: New client connected from 172.19.0.3:46531 as news-subscriber (p2, c1, k60).
+1740160519: New connection from 172.19.0.4:44915 on port 1883.
+1740160519: Client news-publisher already connected, closing old connection.
+1740160519: New client connected from 172.19.0.4:44915 as news-publisher (p2, c1, k60).
+1740160520: New connection from 172.19.0.3:56721 on port 1883.
+1740160520: Client news-subscriber already connected, closing old connection.
+1740160520: New client connected from 172.19.0.3:56721 as news-subscriber (p2, c1, k60).
+1740160520: New connection from 172.19.0.4:44217 on port 1883.
+1740160520: Client news-publisher already connected, closing old connection.
+1740160520: New client connected from 172.19.0.4:44217 as news-publisher (p2, c1, k60).
+1740160521: New connection from 172.19.0.3:50585 on port 1883.
+1740160521: Client news-subscriber already connected, closing old connection.
+1740160521: New client connected from 172.19.0.3:50585 as news-subscriber (p2, c1, k60).
+1740160521: New connection from 172.19.0.4:57061 on port 1883.
+1740160521: Client news-publisher already connected, closing old connection.
+1740160521: New client connected from 172.19.0.4:57061 as news-publisher (p2, c1, k60).
+1740160522: New connection from 172.19.0.3:34401 on port 1883.
+1740160522: Client news-subscriber already connected, closing old connection.
+1740160522: New client connected from 172.19.0.3:34401 as news-subscriber (p2, c1, k60).
+1740160522: New connection from 172.19.0.4:34517 on port 1883.
+1740160522: Client news-publisher already connected, closing old connection.
+1740160522: New client connected from 172.19.0.4:34517 as news-publisher (p2, c1, k60).
+1740160523: New connection from 172.19.0.3:45811 on port 1883.
+1740160523: Client news-subscriber already connected, closing old connection.
+1740160523: New client connected from 172.19.0.3:45811 as news-subscriber (p2, c1, k60).
+1740160523: New connection from 172.19.0.4:44871 on port 1883.
+1740160523: Client news-publisher already connected, closing old connection.
+1740160523: New client connected from 172.19.0.4:44871 as news-publisher (p2, c1, k60).
+1740160524: New connection from 172.19.0.3:52941 on port 1883.
+1740160524: Client news-subscriber already connected, closing old connection.
+1740160524: New client connected from 172.19.0.3:52941 as news-subscriber (p2, c1, k60).
+1740160524: New connection from 172.19.0.4:57015 on port 1883.
+1740160524: Client news-publisher already connected, closing old connection.
+1740160524: New client connected from 172.19.0.4:57015 as news-publisher (p2, c1, k60).
+1740160525: New connection from 172.19.0.3:44549 on port 1883.
+1740160525: Client news-subscriber already connected, closing old connection.
+1740160525: New client connected from 172.19.0.3:44549 as news-subscriber (p2, c1, k60).
+1740160525: New connection from 172.19.0.4:53089 on port 1883.
+1740160525: Client news-publisher already connected, closing old connection.
+1740160525: New client connected from 172.19.0.4:53089 as news-publisher (p2, c1, k60).
+1740160526: New connection from 172.19.0.3:41475 on port 1883.
+1740160526: Client news-subscriber already connected, closing old connection.
+1740160526: New client connected from 172.19.0.3:41475 as news-subscriber (p2, c1, k60).
+1740160526: New connection from 172.19.0.4:60733 on port 1883.
+1740160526: Client news-publisher already connected, closing old connection.
+1740160526: New client connected from 172.19.0.4:60733 as news-publisher (p2, c1, k60).
+1740160527: New connection from 172.19.0.3:47715 on port 1883.
+1740160527: Client news-subscriber already connected, closing old connection.
+1740160527: New client connected from 172.19.0.3:47715 as news-subscriber (p2, c1, k60).
+1740160527: New connection from 172.19.0.4:37749 on port 1883.
+1740160527: Client news-publisher already connected, closing old connection.
+1740160527: New client connected from 172.19.0.4:37749 as news-publisher (p2, c1, k60).
+1740160528: New connection from 172.19.0.3:51793 on port 1883.
+1740160528: Client news-subscriber already connected, closing old connection.
+1740160528: New client connected from 172.19.0.3:51793 as news-subscriber (p2, c1, k60).
+1740160528: New connection from 172.19.0.4:53167 on port 1883.
+1740160528: Client news-publisher already connected, closing old connection.
+1740160528: New client connected from 172.19.0.4:53167 as news-publisher (p2, c1, k60).
+1740160529: New connection from 172.19.0.3:59193 on port 1883.
+1740160529: Client news-subscriber already connected, closing old connection.
+1740160529: New client connected from 172.19.0.3:59193 as news-subscriber (p2, c1, k60).
+1740160529: New connection from 172.19.0.4:36067 on port 1883.
+1740160529: Client news-publisher already connected, closing old connection.
+1740160529: New client connected from 172.19.0.4:36067 as news-publisher (p2, c1, k60).
+1740160530: New connection from 172.19.0.3:44459 on port 1883.
+1740160530: Client news-subscriber already connected, closing old connection.
+1740160530: New client connected from 172.19.0.3:44459 as news-subscriber (p2, c1, k60).
+1740160530: New connection from 172.19.0.4:56183 on port 1883.
+1740160530: Client news-publisher already connected, closing old connection.
+1740160530: New client connected from 172.19.0.4:56183 as news-publisher (p2, c1, k60).
+1740160531: New connection from 172.19.0.3:50959 on port 1883.
+1740160531: Client news-subscriber already connected, closing old connection.
+1740160531: New client connected from 172.19.0.3:50959 as news-subscriber (p2, c1, k60).
+1740160532: New connection from 172.19.0.3:56423 on port 1883.
+1740160532: Client news-subscriber already connected, closing old connection.
+1740160532: New client connected from 172.19.0.3:56423 as news-subscriber (p2, c1, k60).
+1740160533: New connection from 172.19.0.3:48185 on port 1883.
+1740160533: Client news-subscriber already connected, closing old connection.
+1740160533: New client connected from 172.19.0.3:48185 as news-subscriber (p2, c1, k60).
+1740160534: New connection from 172.19.0.3:35195 on port 1883.
+1740160534: Client news-subscriber already connected, closing old connection.
+1740160534: New client connected from 172.19.0.3:35195 as news-subscriber (p2, c1, k60).
+1740160535: New connection from 172.19.0.3:43631 on port 1883.
+1740160535: Client news-subscriber already connected, closing old connection.
+1740160535: New client connected from 172.19.0.3:43631 as news-subscriber (p2, c1, k60).
+1740160536: New connection from 172.19.0.3:51277 on port 1883.
+1740160536: Client news-subscriber already connected, closing old connection.
+1740160536: New client connected from 172.19.0.3:51277 as news-subscriber (p2, c1, k60).
+1740160537: New connection from 172.19.0.3:57389 on port 1883.
+1740160537: Client news-subscriber already connected, closing old connection.
+1740160537: New client connected from 172.19.0.3:57389 as news-subscriber (p2, c1, k60).
+1740160538: New connection from 172.19.0.3:52985 on port 1883.
+1740160538: Client news-subscriber already connected, closing old connection.
+1740160538: New client connected from 172.19.0.3:52985 as news-subscriber (p2, c1, k60).
+1740160539: New connection from 172.19.0.3:59951 on port 1883.
+1740160539: Client news-subscriber already connected, closing old connection.
+1740160539: New client connected from 172.19.0.3:59951 as news-subscriber (p2, c1, k60).
+1740160540: New connection from 172.19.0.3:52207 on port 1883.
+1740160540: Client news-subscriber already connected, closing old connection.
+1740160540: New client connected from 172.19.0.3:52207 as news-subscriber (p2, c1, k60).
+1740160541: New connection from 172.19.0.3:33059 on port 1883.
+1740160541: Client news-subscriber already connected, closing old connection.
+1740160541: New client connected from 172.19.0.3:33059 as news-subscriber (p2, c1, k60).
+1740160543: New connection from 172.19.0.3:41441 on port 1883.
+1740160543: Client news-subscriber already connected, closing old connection.
+1740160543: New client connected from 172.19.0.3:41441 as news-subscriber (p2, c1, k60).
+1740160544: New connection from 172.19.0.3:41979 on port 1883.
+1740160544: Client news-subscriber already connected, closing old connection.
+1740160544: New client connected from 172.19.0.3:41979 as news-subscriber (p2, c1, k60).
+1740160545: New connection from 172.19.0.3:42021 on port 1883.
+1740160545: Client news-subscriber already connected, closing old connection.
+1740160545: New client connected from 172.19.0.3:42021 as news-subscriber (p2, c1, k60).
+1740160546: New connection from 172.19.0.3:34981 on port 1883.
+1740160546: Client news-subscriber already connected, closing old connection.
+1740160546: New client connected from 172.19.0.3:34981 as news-subscriber (p2, c1, k60).
+1740160547: New connection from 172.19.0.3:55719 on port 1883.
+1740160547: Client news-subscriber already connected, closing old connection.
+1740160547: New client connected from 172.19.0.3:55719 as news-subscriber (p2, c1, k60).
+1740160548: New connection from 172.19.0.3:49019 on port 1883.
+1740160548: Client news-subscriber already connected, closing old connection.
+1740160548: New client connected from 172.19.0.3:49019 as news-subscriber (p2, c1, k60).
+1740160549: New connection from 172.19.0.3:39165 on port 1883.
+1740160549: Client news-subscriber already connected, closing old connection.
+1740160549: New client connected from 172.19.0.3:39165 as news-subscriber (p2, c1, k60).
+1740160550: New connection from 172.19.0.3:59445 on port 1883.
+1740160550: Client news-subscriber already connected, closing old connection.
+1740160550: New client connected from 172.19.0.3:59445 as news-subscriber (p2, c1, k60).
+1740160551: New connection from 172.19.0.3:50979 on port 1883.
+1740160551: Client news-subscriber already connected, closing old connection.
+1740160551: New client connected from 172.19.0.3:50979 as news-subscriber (p2, c1, k60).
+1740160552: New connection from 172.19.0.3:45463 on port 1883.
+1740160552: Client news-subscriber already connected, closing old connection.
+1740160552: New client connected from 172.19.0.3:45463 as news-subscriber (p2, c1, k60).
+1740160553: New connection from 172.19.0.3:53077 on port 1883.
+1740160553: Client news-subscriber already connected, closing old connection.
+1740160553: New client connected from 172.19.0.3:53077 as news-subscriber (p2, c1, k60).
+1740160554: New connection from 172.19.0.3:38189 on port 1883.
+1740160554: Client news-subscriber already connected, closing old connection.
+1740160554: New client connected from 172.19.0.3:38189 as news-subscriber (p2, c1, k60).
+1740160555: New connection from 172.19.0.3:44479 on port 1883.
+1740160555: Client news-subscriber already connected, closing old connection.
+1740160555: New client connected from 172.19.0.3:44479 as news-subscriber (p2, c1, k60).
+1740160556: New connection from 172.19.0.3:50131 on port 1883.
+1740160556: Client news-subscriber already connected, closing old connection.
+1740160556: New client connected from 172.19.0.3:50131 as news-subscriber (p2, c1, k60).
+1740160557: New connection from 172.19.0.3:51487 on port 1883.
+1740160557: Client news-subscriber already connected, closing old connection.
+1740160557: New client connected from 172.19.0.3:51487 as news-subscriber (p2, c1, k60).
+1740160558: New connection from 172.19.0.3:39783 on port 1883.
+1740160558: Client news-subscriber already connected, closing old connection.
+1740160558: New client connected from 172.19.0.3:39783 as news-subscriber (p2, c1, k60).
+1740160559: New connection from 172.19.0.3:39669 on port 1883.
+1740160559: Client news-subscriber already connected, closing old connection.
+1740160559: New client connected from 172.19.0.3:39669 as news-subscriber (p2, c1, k60).
+1740160560: New connection from 172.19.0.3:42301 on port 1883.
+1740160560: Client news-subscriber already connected, closing old connection.
+1740160560: New client connected from 172.19.0.3:42301 as news-subscriber (p2, c1, k60).
+1740160561: New connection from 172.19.0.3:57795 on port 1883.
+1740160561: Client news-subscriber already connected, closing old connection.
+1740160561: New client connected from 172.19.0.3:57795 as news-subscriber (p2, c1, k60).
+1740160562: New connection from 172.19.0.3:43507 on port 1883.
+1740160562: Client news-subscriber already connected, closing old connection.
+1740160562: New client connected from 172.19.0.3:43507 as news-subscriber (p2, c1, k60).
+1740160563: New connection from 172.19.0.3:58585 on port 1883.
+1740160563: Client news-subscriber already connected, closing old connection.
+1740160563: New client connected from 172.19.0.3:58585 as news-subscriber (p2, c1, k60).
+1740160565: New connection from 172.19.0.3:43677 on port 1883.
+1740160565: Client news-subscriber already connected, closing old connection.
+1740160565: New client connected from 172.19.0.3:43677 as news-subscriber (p2, c1, k60).
+1740160566: New connection from 172.19.0.3:59831 on port 1883.
+1740160566: Client news-subscriber already connected, closing old connection.
+1740160566: New client connected from 172.19.0.3:59831 as news-subscriber (p2, c1, k60).
+1740160567: New connection from 172.19.0.3:35149 on port 1883.
+1740160567: Client news-subscriber already connected, closing old connection.
+1740160567: New client connected from 172.19.0.3:35149 as news-subscriber (p2, c1, k60).
+1740160568: New connection from 172.19.0.3:41067 on port 1883.
+1740160568: Client news-subscriber already connected, closing old connection.
+1740160568: New client connected from 172.19.0.3:41067 as news-subscriber (p2, c1, k60).
+1740160569: New connection from 172.19.0.3:47381 on port 1883.
+1740160569: Client news-subscriber already connected, closing old connection.
+1740160569: New client connected from 172.19.0.3:47381 as news-subscriber (p2, c1, k60).
+1740160570: New connection from 172.19.0.3:60947 on port 1883.
+1740160570: Client news-subscriber already connected, closing old connection.
+1740160570: New client connected from 172.19.0.3:60947 as news-subscriber (p2, c1, k60).
+1740160571: New connection from 172.19.0.3:52325 on port 1883.
+1740160571: Client news-subscriber already connected, closing old connection.
+1740160571: New client connected from 172.19.0.3:52325 as news-subscriber (p2, c1, k60).
+1740160572: New connection from 172.19.0.3:43357 on port 1883.
+1740160572: Client news-subscriber already connected, closing old connection.
+1740160572: New client connected from 172.19.0.3:43357 as news-subscriber (p2, c1, k60).
+1740160573: New connection from 172.19.0.3:47259 on port 1883.
+1740160573: Client news-subscriber already connected, closing old connection.
+1740160573: New client connected from 172.19.0.3:47259 as news-subscriber (p2, c1, k60).
+1740160574: New connection from 172.19.0.3:58631 on port 1883.
+1740160574: Client news-subscriber already connected, closing old connection.
+1740160574: New client connected from 172.19.0.3:58631 as news-subscriber (p2, c1, k60).
+1740160575: New connection from 172.19.0.3:55339 on port 1883.
+1740160575: Client news-subscriber already connected, closing old connection.
+1740160575: New client connected from 172.19.0.3:55339 as news-subscriber (p2, c1, k60).
+1740160576: New connection from 172.19.0.3:57449 on port 1883.
+1740160576: Client news-subscriber already connected, closing old connection.
+1740160576: New client connected from 172.19.0.3:57449 as news-subscriber (p2, c1, k60).
+1740160577: New connection from 172.19.0.3:45817 on port 1883.
+1740160577: Client news-subscriber already connected, closing old connection.
+1740160577: New client connected from 172.19.0.3:45817 as news-subscriber (p2, c1, k60).
+1740160578: New connection from 172.19.0.3:57119 on port 1883.
+1740160578: Client news-subscriber already connected, closing old connection.
+1740160578: New client connected from 172.19.0.3:57119 as news-subscriber (p2, c1, k60).
+1740160579: New connection from 172.19.0.3:59939 on port 1883.
+1740160579: Client news-subscriber already connected, closing old connection.
+1740160579: New client connected from 172.19.0.3:59939 as news-subscriber (p2, c1, k60).
+1740160580: New connection from 172.19.0.3:46571 on port 1883.
+1740160580: Client news-subscriber already connected, closing old connection.
+1740160580: New client connected from 172.19.0.3:46571 as news-subscriber (p2, c1, k60).
+1740160581: New connection from 172.19.0.3:43819 on port 1883.
+1740160581: Client news-subscriber already connected, closing old connection.
+1740160581: New client connected from 172.19.0.3:43819 as news-subscriber (p2, c1, k60).
+1740160582: New connection from 172.19.0.3:40749 on port 1883.
+1740160582: Client news-subscriber already connected, closing old connection.
+1740160582: New client connected from 172.19.0.3:40749 as news-subscriber (p2, c1, k60).
+1740160583: New connection from 172.19.0.3:44039 on port 1883.
+1740160583: Client news-subscriber already connected, closing old connection.
+1740160583: New client connected from 172.19.0.3:44039 as news-subscriber (p2, c1, k60).
+1740160584: New connection from 172.19.0.3:40447 on port 1883.
+1740160584: Client news-subscriber already connected, closing old connection.
+1740160584: New client connected from 172.19.0.3:40447 as news-subscriber (p2, c1, k60).
+1740160585: New connection from 172.19.0.3:46429 on port 1883.
+1740160585: Client news-subscriber already connected, closing old connection.
+1740160585: New client connected from 172.19.0.3:46429 as news-subscriber (p2, c1, k60).
+1740160586: New connection from 172.19.0.3:51537 on port 1883.
+1740160586: Client news-subscriber already connected, closing old connection.
+1740160586: New client connected from 172.19.0.3:51537 as news-subscriber (p2, c1, k60).
+1740160588: New connection from 172.19.0.3:52855 on port 1883.
+1740160588: Client news-subscriber already connected, closing old connection.
+1740160588: New client connected from 172.19.0.3:52855 as news-subscriber (p2, c1, k60).
+1740160589: New connection from 172.19.0.3:51647 on port 1883.
+1740160589: Client news-subscriber already connected, closing old connection.
+1740160589: New client connected from 172.19.0.3:51647 as news-subscriber (p2, c1, k60).
+1740160590: New connection from 172.19.0.3:49171 on port 1883.
+1740160590: Client news-subscriber already connected, closing old connection.
+1740160590: New client connected from 172.19.0.3:49171 as news-subscriber (p2, c1, k60).
+1740160591: New connection from 172.19.0.3:53427 on port 1883.
+1740160591: Client news-subscriber already connected, closing old connection.
+1740160591: New client connected from 172.19.0.3:53427 as news-subscriber (p2, c1, k60).
+1740160592: New connection from 172.19.0.3:52747 on port 1883.
+1740160592: Client news-subscriber already connected, closing old connection.
+1740160592: New client connected from 172.19.0.3:52747 as news-subscriber (p2, c1, k60).
+1740160593: New connection from 172.19.0.3:41667 on port 1883.
+1740160593: Client news-subscriber already connected, closing old connection.
+1740160593: New client connected from 172.19.0.3:41667 as news-subscriber (p2, c1, k60).
+1740160594: New connection from 172.19.0.3:36493 on port 1883.
+1740160594: Client news-subscriber already connected, closing old connection.
+1740160594: New client connected from 172.19.0.3:36493 as news-subscriber (p2, c1, k60).
+1740160595: New connection from 172.19.0.3:36353 on port 1883.
+1740160595: Client news-subscriber already connected, closing old connection.
+1740160595: New client connected from 172.19.0.3:36353 as news-subscriber (p2, c1, k60).
+1740160596: New connection from 172.19.0.3:44153 on port 1883.
+1740160596: Client news-subscriber already connected, closing old connection.
+1740160596: New client connected from 172.19.0.3:44153 as news-subscriber (p2, c1, k60).
+1740160597: New connection from 172.19.0.3:38817 on port 1883.
+1740160597: Client news-subscriber already connected, closing old connection.
+1740160597: New client connected from 172.19.0.3:38817 as news-subscriber (p2, c1, k60).
+1740160598: New connection from 172.19.0.3:50071 on port 1883.
+1740160598: Client news-subscriber already connected, closing old connection.
+1740160598: New client connected from 172.19.0.3:50071 as news-subscriber (p2, c1, k60).
+1740160599: New connection from 172.19.0.3:39007 on port 1883.
+1740160599: Client news-subscriber already connected, closing old connection.
+1740160599: New client connected from 172.19.0.3:39007 as news-subscriber (p2, c1, k60).
+1740160600: New connection from 172.19.0.3:33279 on port 1883.
+1740160600: Client news-subscriber already connected, closing old connection.
+1740160600: New client connected from 172.19.0.3:33279 as news-subscriber (p2, c1, k60).
+1740160601: New connection from 172.19.0.3:46265 on port 1883.
+1740160601: Client news-subscriber already connected, closing old connection.
+1740160601: New client connected from 172.19.0.3:46265 as news-subscriber (p2, c1, k60).
+1740160602: New connection from 172.19.0.3:40849 on port 1883.
+1740160602: Client news-subscriber already connected, closing old connection.
+1740160602: New client connected from 172.19.0.3:40849 as news-subscriber (p2, c1, k60).
+1740160603: New connection from 172.19.0.3:58079 on port 1883.
+1740160603: Client news-subscriber already connected, closing old connection.
+1740160603: New client connected from 172.19.0.3:58079 as news-subscriber (p2, c1, k60).
+1740160604: New connection from 172.19.0.3:45779 on port 1883.
+1740160604: Client news-subscriber already connected, closing old connection.
+1740160604: New client connected from 172.19.0.3:45779 as news-subscriber (p2, c1, k60).
+1740160605: New connection from 172.19.0.3:51461 on port 1883.
+1740160605: Client news-subscriber already connected, closing old connection.
+1740160605: New client connected from 172.19.0.3:51461 as news-subscriber (p2, c1, k60).
+1740160606: New connection from 172.19.0.3:53981 on port 1883.
+1740160606: Client news-subscriber already connected, closing old connection.
+1740160606: New client connected from 172.19.0.3:53981 as news-subscriber (p2, c1, k60).
+1740160607: New connection from 172.19.0.3:43131 on port 1883.
+1740160607: Client news-subscriber already connected, closing old connection.
+1740160607: New client connected from 172.19.0.3:43131 as news-subscriber (p2, c1, k60).
+1740160608: New connection from 172.19.0.3:35799 on port 1883.
+1740160608: Client news-subscriber already connected, closing old connection.
+1740160608: New client connected from 172.19.0.3:35799 as news-subscriber (p2, c1, k60).
+1740160609: New connection from 172.19.0.3:55033 on port 1883.
+1740160610: Client news-subscriber already connected, closing old connection.
+1740160610: New client connected from 172.19.0.3:55033 as news-subscriber (p2, c1, k60).
+1740160611: New connection from 172.19.0.3:53909 on port 1883.
+1740160611: Client news-subscriber already connected, closing old connection.
+1740160611: New client connected from 172.19.0.3:53909 as news-subscriber (p2, c1, k60).
+1740160612: New connection from 172.19.0.3:52529 on port 1883.
+1740160612: Client news-subscriber already connected, closing old connection.
+1740160612: New client connected from 172.19.0.3:52529 as news-subscriber (p2, c1, k60).
+1740160612: Client news-publisher closed its connection.
+1740160612: Client news-subscriber closed its connection.
+1740160613: mosquitto version 2.0.20 terminating
+1740160676: mosquitto version 2.0.20 starting
+1740160676: Config loaded from /mosquitto/config/mosquitto.conf.
+1740160676: Opening ipv4 listen socket on port 1883.
+1740160676: Opening ipv6 listen socket on port 1883.
+1740160676: mosquitto version 2.0.20 running
+1740160676: New connection from 172.19.0.3:33185 on port 1883.
+1740160676: New client connected from 172.19.0.3:33185 as news-publisher (p2, c1, k60).
+1740160676: New connection from 172.19.0.4:56911 on port 1883.
+1740160676: New client connected from 172.19.0.4:56911 as news-subscriber (p2, c1, k60).
+1740160814: Client news-publisher closed its connection.
+1740160814: Client news-subscriber closed its connection.
+1740160815: mosquitto version 2.0.20 terminating
+1740160823: mosquitto version 2.0.20 starting
+1740160823: Config loaded from /mosquitto/config/mosquitto.conf.
+1740160823: Opening ipv4 listen socket on port 1883.
+1740160823: Opening ipv6 listen socket on port 1883.
+1740160823: mosquitto version 2.0.20 running
+1740160869: mosquitto version 2.0.20 terminating
+1740161029: mosquitto version 2.0.20 starting
+1740161029: Config loaded from /mosquitto/config/mosquitto.conf.
+1740161029: Opening ipv4 listen socket on port 1883.
+1740161029: Opening ipv6 listen socket on port 1883.
+1740161029: mosquitto version 2.0.20 running
+1740161029: New connection from 172.19.0.3:39661 on port 1883.
+1740161029: New client connected from 172.19.0.3:39661 as news-subscriber (p2, c1, k60).
+1740161029: New connection from 172.19.0.4:42053 on port 1883.
+1740161029: New client connected from 172.19.0.4:42053 as news-publisher (p2, c1, k60).
+1740161143: Client news-publisher closed its connection.
+1740161143: Client news-subscriber closed its connection.
+1740161144: mosquitto version 2.0.20 terminating
+1740161196: mosquitto version 2.0.20 starting
+1740161196: Config loaded from /mosquitto/config/mosquitto.conf.
+1740161196: Opening ipv4 listen socket on port 1883.
+1740161196: Opening ipv6 listen socket on port 1883.
+1740161196: mosquitto version 2.0.20 running
+1740161196: New connection from 172.19.0.3:42301 on port 1883.
+1740161196: New client connected from 172.19.0.3:42301 as news-subscriber (p2, c1, k60).
+1740161196: New connection from 172.19.0.4:40871 on port 1883.
+1740161196: New client connected from 172.19.0.4:40871 as news-publisher (p2, c1, k60).
+1740161264: Client news-subscriber closed its connection.
+1740161264: Client news-publisher closed its connection.
+1740161265: mosquitto version 2.0.20 terminating
+1740161539: mosquitto version 2.0.20 starting
+1740161539: Config loaded from /mosquitto/config/mosquitto.conf.
+1740161539: Opening ipv4 listen socket on port 1883.
+1740161539: Opening ipv6 listen socket on port 1883.
+1740161539: mosquitto version 2.0.20 running
+1740161539: New connection from 172.19.0.3:38343 on port 1883.
+1740161539: New client connected from 172.19.0.3:38343 as news-subscriber (p2, c1, k60).
+1740161539: Client news-subscriber closed its connection.
+1740161539: New connection from 172.19.0.4:48795 on port 1883.
+1740161539: New client connected from 172.19.0.4:48795 as news-publisher (p2, c1, k60).
+1740161572: Client news-publisher closed its connection.
+1740161572: mosquitto version 2.0.20 terminating
+1740161640: mosquitto version 2.0.20 starting
+1740161640: Config loaded from /mosquitto/config/mosquitto.conf.
+1740161640: Opening ipv4 listen socket on port 1883.
+1740161640: Opening ipv6 listen socket on port 1883.
+1740161640: mosquitto version 2.0.20 running
+1740161641: New connection from 172.19.0.3:53373 on port 1883.
+1740161641: New client connected from 172.19.0.3:53373 as news-subscriber (p2, c1, k60).
+1740161641: New connection from 172.19.0.4:44013 on port 1883.
+1740161641: New client connected from 172.19.0.4:44013 as news-publisher (p2, c1, k60).
+1740161728: Client news-publisher closed its connection.
+1740161728: Client news-subscriber closed its connection.
+1740161729: mosquitto version 2.0.20 terminating
+1740161851: mosquitto version 2.0.20 starting
+1740161851: Config loaded from /mosquitto/config/mosquitto.conf.
+1740161851: Opening ipv4 listen socket on port 1883.
+1740161851: Opening ipv6 listen socket on port 1883.
+1740161851: mosquitto version 2.0.20 running
+1740161852: New connection from 172.19.0.3:49153 on port 1883.
+1740161852: New client connected from 172.19.0.3:49153 as news-subscriber (p2, c1, k60).
+1740161852: New connection from 172.19.0.4:39869 on port 1883.
+1740161852: New client connected from 172.19.0.4:39869 as news-publisher (p2, c1, k60).
+1740161872: Client news-publisher closed its connection.
+1740161872: Client news-subscriber closed its connection.
+1740161873: mosquitto version 2.0.20 terminating
+1740162026: mosquitto version 2.0.20 starting
+1740162026: Config loaded from /mosquitto/config/mosquitto.conf.
+1740162026: Opening ipv4 listen socket on port 1883.
+1740162026: Opening ipv6 listen socket on port 1883.
+1740162026: mosquitto version 2.0.20 running
+1740162026: New connection from 172.19.0.3:35095 on port 1883.
+1740162026: New client connected from 172.19.0.3:35095 as news-subscriber (p2, c1, k60).
+1740162026: New connection from 172.19.0.4:44759 on port 1883.
+1740162026: New client connected from 172.19.0.4:44759 as news-publisher (p2, c1, k60).
+1740162099: Client news-publisher closed its connection.
+1740162099: Client news-subscriber closed its connection.
+1740162100: mosquitto version 2.0.20 terminating
+1740162107: mosquitto version 2.0.20 starting
+1740162107: Config loaded from /mosquitto/config/mosquitto.conf.
+1740162107: Opening ipv4 listen socket on port 1883.
+1740162107: Opening ipv6 listen socket on port 1883.
+1740162107: mosquitto version 2.0.20 running
+1740162107: New connection from 172.19.0.4:38425 on port 1883.
+1740162107: New client connected from 172.19.0.4:38425 as news-publisher (p2, c1, k60).
+1740162107: New connection from 172.19.0.3:48169 on port 1883.
+1740162107: New client connected from 172.19.0.3:48169 as news-subscriber (p2, c1, k60).
