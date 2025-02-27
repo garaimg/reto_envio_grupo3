@@ -5,20 +5,25 @@ services:
     image: eclipse-mosquitto:2
     container_name: mosquitto
     ports:
-      - "1883:1883"
+      - "8883:8883"
     volumes:
       - ./mosquitto/config:/mosquitto/config
       - ./mosquitto/data:/mosquitto/data
       - ./mosquitto/log:/mosquitto/log
+      - ./mosquitto/certs:/mosquitto/certs
 
   publisher:
     build: ./publisher
     container_name: publisher
     depends_on:
       - mosquitto
+    volumes:
+      - ./mosquitto/certs:/mosquitto/certs
 
   subscriber:
     build: ./subscriber
     container_name: subscriber
     depends_on:
       - mosquitto
+    volumes:
+      - ./mosquitto/certs:/mosquitto/certs

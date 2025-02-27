@@ -1,28 +1,33 @@
 import time
 import random
+import ssl
 import paho.mqtt.client as mqtt
 
-# Crear un cliente MQTT
+# Crear el cliente MQTT
 client = mqtt.Client(client_id="news-publisher")
 
-# Conectar al broker
-broker = "mosquitto"  # Nombre del servicio en docker-compose
-port = 1883
-client.connect(broker, port)
-print("🔗 Conectado al broker como publisher.")
+# Configurar TLS usando los certificados del publisher
+client.tls_set(
+    ca_certs="/mosquitto/certs/ca.crt",
+    certfile="/mosquitto/certs/publisher.crt",
+    keyfile="/mosquitto/certs/publisher.key",
+    tls_version=ssl.PROTOCOL_TLSv1_2
+)
+client.tls_insecure_set(False)
 
-# Iniciar el bucle para mantener la conexión
+broker = "mosquitto"  # En la red de Docker, el broker se llama "mosquitto"
+port = 8883
+client.connect(broker, port)
 client.loop_start()
 
 print("📢 Publicador de artículos activo. Enviando artículos cada 10 segundos...")
 
-# Lista de artículos para publicar
 articles = [
     {
         "newspaper": "marca",
         "category": "futbol",
-        "title": "El triunfo del Deportivo Alavés",
-        "content": "El Deportivo Alavés gana en un partido épico."
+        "title": "El triunfo de la Roja",
+        "content": "La selección española gana en un partido épico."
     },
     {
         "newspaper": "marca",
@@ -31,28 +36,16 @@ articles = [
         "content": "El equipo local sorprende a todos en la cancha."
     },
     {
-        "newspaper": "as",
-        "category": "baloncesto",
-        "title": "Baloncesto en decadencia",
-        "content": "La audiencia del baloncesto baja en un 10%."
-    },
-    {
         "newspaper": "elmundo",
         "category": "futbol",
         "title": "Derbi de alto voltaje",
         "content": "Dos grandes rivales se enfrentan en un derbi inolvidable."
     },
     {
-        "newspaper": "as",
+        "newspaper": "eltiempo",
         "category": "politica",
         "title": "Debate presidencial",
         "content": "El presidente anuncia nuevas medidas en el debate."
-    },
-    {
-        "newspaper": "elmundo",
-        "category": "politica",
-        "title": "Debate presidencial parte 2",
-        "content": "El presidente anuncia nuevas medidas en el debate (parte 2)."
     },
     {
         "newspaper": "as",
@@ -68,7 +61,7 @@ try:
         topic = f"articulos/{article['newspaper']}/{article['category']}"
         message = f"Título: {article['title']} | Contenido: {article['content']}"
         print(f"📰 Publicando en {topic}: {message}")
-        client.publish(topic, payload=message, qos=2)  # QoS 2 para la publicación
+        client.publish(topic, payload=message, qos=2)
         time.sleep(10)
 except KeyboardInterrupt:
     print("🛑 Cerrando publicador...")
