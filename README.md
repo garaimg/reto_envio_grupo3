@@ -91,7 +91,7 @@ específicas en un archivo mosquitto.conf y se incluye un script para generar ce
     - **Subscriber:**
     - Entra al contenedor del broker:
          ```bash
-      docker exec mosquitto sh
+      docker exec -it mosquitto sh
       ```  
     - Introduce el siguiente comando:
          ```bash
@@ -101,7 +101,7 @@ específicas en un archivo mosquitto.conf y se incluye un script para generar ce
     - **Publisher:**
     - Entra al contenedor del broker o mantente en el si ya estás:
        ```bash
-      docker exec mosquitto sh
+      docker exec -it mosquitto sh
       ```  
     - Introduce el siguiente comando:
          ```bash

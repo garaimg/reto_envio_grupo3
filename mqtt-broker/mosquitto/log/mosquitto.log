@@ -4430,3 +4430,132 @@
 1740995422: Client news-subscriber closed its connection.
 1740995422: mosquitto version 2.0.20 terminating
 1740995422: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1741001915: mosquitto version 2.0.20 starting
+1741001915: Config loaded from /mosquitto/config/mosquitto.conf.
+1741001915: Opening ipv4 listen socket on port 8883.
+1741001915: Opening ipv6 listen socket on port 8883.
+1741001915: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1741001915: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1741001915: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1741001915: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1741001949: mosquitto version 2.0.20 starting
+1741001949: Config loaded from /mosquitto/config/mosquitto.conf.
+1741001949: Opening ipv4 listen socket on port 8883.
+1741001949: Opening ipv6 listen socket on port 8883.
+1741001949: mosquitto version 2.0.20 running
+1741001949: New connection from 172.21.0.3:46539 on port 8883.
+1741001949: New client connected from 172.21.0.3:46539 as news-subscriber (p2, c1, k60, u'subscriber').
+1741001949: No will message specified.
+1741001949: Sending CONNACK to news-subscriber (0, 0)
+1741001949: Received SUBSCRIBE from news-subscriber
+1741001949: 	articulos/+/futbol (QoS 2)
+1741001949: news-subscriber 2 articulos/+/futbol
+1741001949: 	articulos/elpais/politica (QoS 2)
+1741001949: news-subscriber 2 articulos/elpais/politica
+1741001949: Sending SUBACK to news-subscriber
+1741001950: New connection from 172.21.0.4:42507 on port 8883.
+1741001950: New client connected from 172.21.0.4:42507 as news-publisher (p2, c1, k60, u'publisher').
+1741001950: No will message specified.
+1741001950: Sending CONNACK to news-publisher (0, 0)
+1741001950: Received PUBLISH from news-publisher (d0, q2, r0, m1, 'articulos/eldiario/futbol', ... (101 bytes))
+1741001950: Sending PUBREC to news-publisher (m1, rc0)
+1741001950: Received PUBREL from news-publisher (Mid: 1)
+1741001950: Sending PUBLISH to news-subscriber (d0, q2, r0, m1, 'articulos/eldiario/futbol', ... (101 bytes))
+1741001950: Sending PUBCOMP to news-publisher (m1)
+1741001950: Received PUBREC from news-subscriber (Mid: 1)
+1741001950: Sending PUBREL to news-subscriber (m1)
+1741001950: Received PUBCOMP from news-subscriber (Mid: 1, RC:0)
+1741001960: Received PUBLISH from news-publisher (d0, q2, r0, m2, 'articulos/elpais/politica', ... (92 bytes))
+1741001960: Sending PUBREC to news-publisher (m2, rc0)
+1741001960: Received PUBREL from news-publisher (Mid: 2)
+1741001960: Sending PUBLISH to news-subscriber (d0, q2, r0, m2, 'articulos/elpais/politica', ... (92 bytes))
+1741001960: Sending PUBCOMP to news-publisher (m2)
+1741001960: Received PUBREC from news-subscriber (Mid: 2)
+1741001960: Sending PUBREL to news-subscriber (m2)
+1741001960: Received PUBCOMP from news-subscriber (Mid: 2, RC:0)
+1741001970: Received PUBLISH from news-publisher (d0, q2, r0, m3, 'articulos/eldiario/baloncesto', ... (115 bytes))
+1741001970: Sending PUBREC to news-publisher (m3, rc0)
+1741001970: Received PUBREL from news-publisher (Mid: 3)
+1741001970: Sending PUBCOMP to news-publisher (m3)
+1741001980: Received PUBLISH from news-publisher (d0, q2, r0, m4, 'articulos/eldiario/baloncesto', ... (115 bytes))
+1741001980: Sending PUBREC to news-publisher (m4, rc0)
+1741001980: Received PUBREL from news-publisher (Mid: 4)
+1741001980: Sending PUBCOMP to news-publisher (m4)
+1741001990: Received PUBLISH from news-publisher (d0, q2, r0, m5, 'articulos/as/futbol', ... (117 bytes))
+1741001990: Sending PUBREC to news-publisher (m5, rc0)
+1741001990: Received PUBREL from news-publisher (Mid: 5)
+1741001990: Sending PUBLISH to news-subscriber (d0, q2, r0, m3, 'articulos/as/futbol', ... (117 bytes))
+1741001990: Sending PUBCOMP to news-publisher (m5)
+1741001990: Received PUBREC from news-subscriber (Mid: 3)
+1741001990: Sending PUBREL to news-subscriber (m3)
+1741001990: Received PUBCOMP from news-subscriber (Mid: 3, RC:0)
+1741002000: Received PUBLISH from news-publisher (d0, q2, r0, m6, 'articulos/marca/futbol', ... (85 bytes))
+1741002000: Sending PUBREC to news-publisher (m6, rc0)
+1741002000: Received PUBREL from news-publisher (Mid: 6)
+1741002000: Sending PUBLISH to news-subscriber (d0, q2, r0, m4, 'articulos/marca/futbol', ... (85 bytes))
+1741002000: Sending PUBCOMP to news-publisher (m6)
+1741002000: Received PUBREC from news-subscriber (Mid: 4)
+1741002000: Sending PUBREL to news-subscriber (m4)
+1741002000: Received PUBCOMP from news-subscriber (Mid: 4, RC:0)
+1741002010: Received PINGREQ from news-publisher
+1741002010: Sending PINGRESP to news-publisher
+1741002010: Received PUBLISH from news-publisher (d0, q2, r0, m7, 'articulos/eldiario/baloncesto', ... (115 bytes))
+1741002010: Sending PUBREC to news-publisher (m7, rc0)
+1741002010: Received PUBREL from news-publisher (Mid: 7)
+1741002010: Sending PUBCOMP to news-publisher (m7)
+1741002010: Received PINGREQ from news-subscriber
+1741002010: Sending PINGRESP to news-subscriber
+1741002020: Received PUBLISH from news-publisher (d0, q2, r0, m8, 'articulos/as/futbol', ... (117 bytes))
+1741002020: Sending PUBREC to news-publisher (m8, rc0)
+1741002020: Received PUBREL from news-publisher (Mid: 8)
+1741002020: Sending PUBLISH to news-subscriber (d0, q2, r0, m5, 'articulos/as/futbol', ... (117 bytes))
+1741002020: Sending PUBCOMP to news-publisher (m8)
+1741002020: Received PUBREC from news-subscriber (Mid: 5)
+1741002020: Sending PUBREL to news-subscriber (m5)
+1741002020: Received PUBCOMP from news-subscriber (Mid: 5, RC:0)
+1741002030: Received PUBLISH from news-publisher (d0, q2, r0, m9, 'articulos/eldiario/futbol', ... (101 bytes))
+1741002030: Sending PUBREC to news-publisher (m9, rc0)
+1741002030: Received PUBREL from news-publisher (Mid: 9)
+1741002030: Sending PUBLISH to news-subscriber (d0, q2, r0, m6, 'articulos/eldiario/futbol', ... (101 bytes))
+1741002030: Sending PUBCOMP to news-publisher (m9)
+1741002030: Received PUBREC from news-subscriber (Mid: 6)
+1741002030: Sending PUBREL to news-subscriber (m6)
+1741002030: Received PUBCOMP from news-subscriber (Mid: 6, RC:0)
+1741002040: Received PUBLISH from news-publisher (d0, q2, r0, m10, 'articulos/as/futbol', ... (117 bytes))
+1741002040: Sending PUBREC to news-publisher (m10, rc0)
+1741002040: Received PUBREL from news-publisher (Mid: 10)
+1741002040: Sending PUBLISH to news-subscriber (d0, q2, r0, m7, 'articulos/as/futbol', ... (117 bytes))
+1741002040: Sending PUBCOMP to news-publisher (m10)
+1741002040: Received PUBREC from news-subscriber (Mid: 7)
+1741002040: Sending PUBREL to news-subscriber (m7)
+1741002040: Received PUBCOMP from news-subscriber (Mid: 7, RC:0)
+1741002050: Received PUBLISH from news-publisher (d0, q2, r0, m11, 'articulos/elpais/politica', ... (92 bytes))
+1741002050: Sending PUBREC to news-publisher (m11, rc0)
+1741002050: Received PUBREL from news-publisher (Mid: 11)
+1741002050: Sending PUBLISH to news-subscriber (d0, q2, r0, m8, 'articulos/elpais/politica', ... (92 bytes))
+1741002050: Sending PUBCOMP to news-publisher (m11)
+1741002050: Received PUBREC from news-subscriber (Mid: 8)
+1741002050: Sending PUBREL to news-subscriber (m8)
+1741002050: Received PUBCOMP from news-subscriber (Mid: 8, RC:0)
+1741002060: Received PUBLISH from news-publisher (d0, q2, r0, m12, 'articulos/marca/baloncesto', ... (88 bytes))
+1741002060: Sending PUBREC to news-publisher (m12, rc0)
+1741002060: Received PUBREL from news-publisher (Mid: 12)
+1741002060: Sending PUBCOMP to news-publisher (m12)
+1741002070: Received PINGREQ from news-publisher
+1741002070: Sending PINGRESP to news-publisher
+1741002070: Received PUBLISH from news-publisher (d0, q2, r0, m13, 'articulos/as/futbol', ... (117 bytes))
+1741002070: Sending PUBREC to news-publisher (m13, rc0)
+1741002070: Received PUBREL from news-publisher (Mid: 13)
+1741002070: Sending PUBLISH to news-subscriber (d0, q2, r0, m9, 'articulos/as/futbol', ... (117 bytes))
+1741002070: Sending PUBCOMP to news-publisher (m13)
+1741002070: Received PUBREC from news-subscriber (Mid: 9)
+1741002070: Sending PUBREL to news-subscriber (m9)
+1741002070: Received PUBCOMP from news-subscriber (Mid: 9, RC:0)
+1741002070: Received PINGREQ from news-subscriber
+1741002070: Sending PINGRESP to news-subscriber
+1741002070: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1741002070: Client news-publisher closed its connection.
+1741002080: OpenSSL Error[0]: error:0A000126:SSL routines::unexpected eof while reading
+1741002080: Client news-subscriber closed its connection.
+1741002081: mosquitto version 2.0.20 terminating
+1741002081: Saving in-memory database to /mosquitto/data//mosquitto.db.
