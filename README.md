@@ -1,6 +1,6 @@
-**# Reto2 Grupo3 - Desarrollo de aplicaciones IoT
+# Reto2 Grupo3 - Desarrollo de aplicaciones IoT
 
-# Proyecto: Probando MQTT con Python seguro
+# Proyecto: MQTT con Python seguro
 
 Este proyecto implementa un sistema de publicación de artículos basado en MQTT utilizando Eclipse Mosquitto como 
 broker, con clientes de publicación y suscripción escritos en Python. La infraestructura está orquestada mediante 
@@ -51,6 +51,12 @@ específicas en un archivo mosquitto.conf y se incluye un script para generar ce
     - Estos certificados se almacenan en la carpeta `certs/` y su uso ha sido habilitado en la configuración de **Mosquitto**.  
     - Esto garantiza que **solo las conexiones autenticadas y encriptadas** puedan comunicarse con el broker.
 
+6. **Verificación de la comunicación segura con certificados mediante comandos CLI:**
+    - Se ha utilizado el comando mosquitto_pub y mosquitto_sub para probar la comunicación segura con certificados vía comandos.
+    - Se ha conectado al contenedor del broker utilizando el comando docker exec para ejecutar los comandos de forma local dentro del contenedor.
+    - Se ha utilizado el puerto 8883 para la conexión segura con certificados.
+    - Se han especificado los archivos de certificado y clave necesarios para la conexión segura.
+    - Se ha comprobado que los clientes no pueden ni enviar ni recibir mensajes sin el uso de certificados.
 
 ---
 
@@ -62,9 +68,9 @@ específicas en un archivo mosquitto.conf y se incluye un script para generar ce
 
 
 2. **Generación de Certificados TLS:**  
-    - Antes de levantar los contenedores, ejecutar el siguiente comando en la terminal:  
+    - Antes de levantar los contenedores, ejecutar el siguiente comando en la terminal con sudo:  
       ```bash
-      ./generate_certs.sh
+      sudo ./generate_certs.sh
       ```  
     - Esto creará los certificados en la carpeta `mosquitto/certs/`, que serán usados por Mosquitto, el publicador y el suscriptor.  
 
@@ -72,30 +78,43 @@ específicas en un archivo mosquitto.conf y se incluye un script para generar ce
 3. **Levantar los Contenedores:**  
     - Ejecutar el siguiente comando:  
       ```bash
-      docker-compose up -d
+      docker compose up --build
       ```  
-    - Esto iniciará los contenedores del **broker Mosquitto, el publicador y el suscriptor**.  
+    - Esto iniciará los contenedores del **broker Mosquitto, el publicador y el suscriptor**, y se verán los logs de cada servicio.  
 
 
 4. **Verificación del Funcionamiento:**  
     - Comprobar que el **broker Mosquitto** está en ejecución y escuchando en el puerto **8883**.  
-    - Revisar los logs de los contenedores para asegurarse de que el publicador está enviando mensajes y el suscriptor los está recibiendo correctamente.  
+    - Revisar los logs de los contenedores para asegurarse de que el publicador está enviando mensajes y el suscriptor los está recibiendo correctamente.
 
-
-5. **Monitoreo de Logs:**  
-    - Para ver los logs del broker Mosquitto:  
-      ```bash
-      docker logs -f mosquitto
+5. **Uso vía comandos:**
+    - **Subscriber:**
+    - Entra al contenedor del broker:
+         ```bash
+      docker exec mosquitto sh
       ```  
-    - Para ver los logs del publicador:  
-      ```bash
-      docker logs -f publisher
+    - Introduce el siguiente comando:
+         ```bash
+       mosquitto_sub -h mosquitto -p 8883 --cafile ./mosquitto/certs/ca.crt --cert ./mosquitto/certs/subscriber.crt --key ./mosquitto/certs/subscriber.key -t "articulos/+/futbol"
       ```  
-    - Para ver los logs del suscriptor:  
-      ```bash
-      docker logs -f subscriber
+    - Esperar a recibir algún artículo de fútbol.
+    - **Publisher:**
+    - Entra al contenedor del broker o mantente en el si ya estás:
+       ```bash
+      docker exec mosquitto sh
+      ```  
+    - Introduce el siguiente comando:
+         ```bash
+      mosquitto_pub -h mosquitto -p 8883 --cafile /mosquitto/certs/ca.crt --cert /mosquitto/certs/publisher.crt --key /mosquitto/certs/publisher.key -t "articulos/eldiario/futbol" -m 'Título: El Alavés en descenso | Contenido: El Alavés pelea por no descender.' 
       ```
-
+    - Verificar que se ha enviado correctamente.
+    - **Se puede verificar que **no funciona sin certificados** probando los siguientes comandos dentro del broker:**
+        ```bash
+       mosquitto_sub -h mosquitto -p 8883 -t "articulos/+/futbol"
+      ```  
+        ```bash
+      mosquitto_pub -h mosquitto -p 8883 -t "articulos/eldiario/futbol" -m 'Título: El Alavés en descenso | Contenido: El Alavés pelea por no descender.' 
+      ```  
 ---
 
 ## Posibles Vías de Mejora  

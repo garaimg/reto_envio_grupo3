@@ -26,8 +26,8 @@ articles = [
     {
         "newspaper": "marca",
         "category": "futbol",
-        "title": "El triunfo de la Roja",
-        "content": "La selección española gana en un partido épico."
+        "title": "El triunfo de Deusto FC",
+        "content": "El Deusto FC gana en un partido épico."
     },
     {
         "newspaper": "marca",
@@ -36,13 +36,19 @@ articles = [
         "content": "El equipo local sorprende a todos en la cancha."
     },
     {
-        "newspaper": "elmundo",
+        "newspaper": "eldiario",
         "category": "futbol",
         "title": "Derbi de alto voltaje",
         "content": "Dos grandes rivales se enfrentan en un derbi inolvidable."
     },
     {
-        "newspaper": "eltiempo",
+        "newspaper": "eldiario",
+        "category": "baloncesto",
+        "title": "El Baloncesto baja en audiencias en 2025",
+        "content": "El baloncesto en 2025 se ve un 5% menos que en 2024."
+    },
+    {
+        "newspaper": "elpais",
         "category": "politica",
         "title": "Debate presidencial",
         "content": "El presidente anuncia nuevas medidas en el debate."

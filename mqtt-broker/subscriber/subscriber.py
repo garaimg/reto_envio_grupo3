@@ -23,7 +23,7 @@ client.connect(broker, port)
 # Ejemplo: suscribirse a dos topics
 topics = [
     ("articulos/+/futbol", 2),
-    ("articulos/eltiempo/politica", 2)
+    ("articulos/elpais/politica", 2)
 ]
 client.subscribe(topics)
 

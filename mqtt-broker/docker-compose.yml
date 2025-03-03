@@ -17,6 +17,7 @@ services:
     container_name: publisher
     depends_on:
       - mosquitto
+      - subscriber
     volumes:
       - ./mosquitto/certs:/mosquitto/certs
 
